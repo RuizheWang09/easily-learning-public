@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T07:01:28.695Z",
+  "generatedAt": "2026-10-31T08:55:32.072Z",
   "checkedAt": "2026-10-31",
   "sources": [
     "https://learningenglish.voanews.com/api/zmg_pl-vomx-tpeymtm",
@@ -3498,9 +3498,5 @@
       }
     }
   ],
-  "warnings": [
-    "https://learningenglish.voanews.com/api/zmg_pl-vomx-tpeymtm: fetch failed",
-    "https://learningenglish.voanews.com/api/zbmroml-vomx-tpeqboo_: fetch failed",
-    "https://learningenglish.voanews.com/api/zoroqql-vomx-tpeptpqq: fetch failed"
-  ]
+  "warnings": []
 }
