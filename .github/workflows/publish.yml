@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '17 3 * * *'
   workflow_dispatch:
+    inputs:
+      generate_audio:
+        description: Generate bounded missing article audio before deployment
+        type: boolean
+        default: true
   push:
     branches: [main]
     paths:
@@ -38,11 +43,25 @@ jobs:
       - run: npm run update
         env:
           NODE_USE_ENV_PROXY: '1'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Generate bounded missing natural audio
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.generate_audio)
+        continue-on-error: true
+        timeout-minutes: 32
+        run: |
+          python -m pip install -r scripts/speech/requirements.txt
+          mkdir -p artifacts
+          npx tsx scripts/speech/input.ts artifacts/speech-input.json
+          python scripts/speech/generate.py --max-articles 8 --max-seconds 1500 --max-bytes 524288000
+      - run: npm run validate
       - name: Preserve catalog and immutable body history
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -- apps/web/src/reading/reading-catalog.json apps/web/public/reading/catalog.json apps/web/public/reading/catalog-v2.json apps/web/public/reading/articles
+          if [ -d apps/web/public/reading/audio ]; then git add -- apps/web/public/reading/audio; fi
           if ! git diff --cached --quiet; then
             git commit -m 'Update public reading catalog and versioned bodies'
             git push origin HEAD:main

@@ -3,6 +3,8 @@ import { readFile, readdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { resolve, join } from 'node:path';
 import { pathToFileURL } from 'node:url';
+import { validateSpeechDirectory, speechManifests } from './speech/validate.mjs';
+import { dirname } from 'node:path';
 import { articleContentVersion } from './reading-artifacts.mjs';
 
 export async function validateGithubResources(siteDirectory) {
@@ -41,7 +43,27 @@ export async function validateGithubResources(siteDirectory) {
     assert.equal(entry.name, `${body.contentVersion}.json`, 'Historical body filename mismatch');
     bodies++;
   }
-  return { shards: manifest.shards.length, articles: catalog.articles.length, bodies, apkBytes: version.bytes };
+  let audioBytes = 0;
+  for (const file of await speechManifests(join(root, 'reading/audio'))) {
+    const identity = JSON.parse(await readFile(file, 'utf8'));
+    assert(/^[\w-]+$/.test(identity.articleId) && /^[a-f0-9]{64}$/.test(identity.contentVersion), 'Unsafe audio identity');
+    const expected = await json(`reading/articles/${identity.articleId}/${identity.contentVersion}.json`);
+    assert.equal(articleContentVersion(expected.articleId, expected.paragraphs), expected.contentVersion, 'Audio body version mismatch');
+    const audio = await validateSpeechDirectory(dirname(file), expected);
+    assert.equal(file, join(root, 'reading/audio', audio.articleId, audio.contentVersion, 'manifest.json'));
+  }
+  let totalBytes = 0;
+  for (const entry of await readdir(root, { recursive: true, withFileTypes: true })) {
+    if (entry.isFile()) {
+      const file = join(entry.parentPath ?? entry.path, entry.name);
+      const size = (await readFile(file)).length;
+      totalBytes += size;
+      if (file.startsWith(join(root, 'reading/audio') + (process.platform === 'win32' ? '\\' : '/'))) audioBytes += size;
+    }
+  }
+  assert(audioBytes <= 524288000, 'Audio exceeds 500 MiB budget');
+  assert(totalBytes < 1000000000, 'Pages artifact exceeds 1 GB budget');
+  return { audioBytes, totalBytes, shards: manifest.shards.length, articles: catalog.articles.length, bodies, apkBytes: version.bytes };
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) {
