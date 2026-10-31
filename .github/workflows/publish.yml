@@ -20,6 +20,7 @@ on:
       - 'apps/web/public/app/**'
       - 'apps/web/public/index.html'
       - 'apps/web/public/health/**'
+        - 'apps/web/public/reading/audio/**'
 permissions:
   contents: write
   pages: write
@@ -64,6 +65,7 @@ jobs:
           if [ -d apps/web/public/reading/audio ]; then git add -- apps/web/public/reading/audio; fi
           if ! git diff --cached --quiet; then
             git commit -m 'Update public reading catalog and versioned bodies'
+            git pull --rebase origin main
             git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5
