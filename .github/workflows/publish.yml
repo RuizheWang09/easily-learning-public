@@ -1,0 +1,56 @@
+name: Publish public learning resources
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish.yml'
+      - 'package*.json'
+      - 'packages/content-pipeline/src/**'
+      - 'scripts/**'
+      - 'apps/web/public/lexicon/**'
+      - 'apps/web/public/download/**'
+      - 'apps/web/public/app/**'
+      - 'apps/web/public/index.html'
+      - 'apps/web/public/health/**'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages-public-resources
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+      - run: npm run update
+        env:
+          NODE_USE_ENV_PROXY: '1'
+      - name: Preserve catalog and immutable body history
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- apps/web/src/reading/reading-catalog.json apps/web/public/reading/catalog.json apps/web/public/reading/catalog-v2.json apps/web/public/reading/articles
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update public reading catalog and versioned bodies'
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: apps/web/public
+      - name: Deploy resources
+        id: deployment
+        uses: actions/deploy-pages@v4

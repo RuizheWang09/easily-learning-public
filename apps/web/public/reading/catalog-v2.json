@@ -1,0 +1,1921 @@
+{
+  "schemaVer": 2,
+  "generatedAt": "2026-10-31T07:01:28.695Z",
+  "checkedAt": "2026-10-31",
+  "warnings": [
+    "https://learningenglish.voanews.com/api/zmg_pl-vomx-tpeymtm: fetch failed",
+    "https://learningenglish.voanews.com/api/zbmroml-vomx-tpeqboo_: fetch failed",
+    "https://learningenglish.voanews.com/api/zoroqql-vomx-tpeptpqq: fetch failed"
+  ],
+  "articles": [
+    {
+      "id": "voa-5345471",
+      "title": "Grammar Games at Home: Jeopardy",
+      "description": "With so many people stuck at home, Everyday Grammar will be offering ideas for games that you can play with your family or housemates to practice your English. Today's game is Jeopardy.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-03-20",
+      "sourceUrl": "https://learningenglish.voanews.com/a/grammar-games-at-home-part-1-jeopardy/5345471.html",
+      "credit": "Alice Bryant wrote this story for Learning English. George Grow was the editor.",
+      "genre": "language",
+      "wordCount": 542,
+      "goals": [
+        "general",
+        "cet4"
+      ],
+      "examVocabulary": {
+        "ielts": 80,
+        "cet4": 45,
+        "cet6": 35
+      },
+      "paragraphCount": 24,
+      "latestContentVersion": "d160327be11b606f5c36329f03a50773d2bfff7be836d51906da6f397267ee69",
+      "bytes": 3342,
+      "sha256": "c2f2f20c8f0aa7a475abdc4997703cf82d3a750c8046922d7e1808ceebcfa775"
+    },
+    {
+      "id": "voa-7998765",
+      "title": "Wilbur and Orville Wright: The First Airplane",
+      "description": "Wilbur and Orville Wright quietly developed a powered flying machine that proved heavier-than-air flight was possible more than 120 years ago.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-03-17",
+      "sourceUrl": "https://learningenglish.voanews.com/a/wilbur-and-orville-wright-the-first-airplane/7998765.html",
+      "credit": "Marilyn Rice Christiano wrote this story for VOA Learning English. John Russell adapted it.",
+      "genre": "news",
+      "wordCount": 436,
+      "goals": [
+        "general",
+        "ielts",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 61,
+        "cet4": 49,
+        "cet6": 42
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "2f5267bae4719f3f0308ef06e9e5cdfec69d5d73ad39b22b60d98c2d1259ea82",
+      "bytes": 2987,
+      "sha256": "5f76c7757b34e40c805b7f43c6c81bebb72c3b77709eb139ea609cccdc51f7ca"
+    },
+    {
+      "id": "voa-7990415",
+      "title": "Lincoln's Cottage: a Country House for the President",
+      "description": "About five kilometers from the White House in Washington, DC lies an historic building closely linked to the life of one of America’s most famous presidents: Abraham Lincoln. The building, known as President Lincoln's Cottage, is where he spent about one-fourth of his presidency.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-03-16",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lincoln-s-cottage-a-country-house-for-the-president-/7990415.html",
+      "credit": "Nancy Steinbach wrote this story for VOA Learning English. John Russell adapted it.",
+      "genre": "news",
+      "wordCount": 367,
+      "goals": [
+        "general",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 48,
+        "cet4": 35,
+        "cet6": 32
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "2cb109808edca41c3f59d3e51935702c00fb8fe63826a3dc04dbd430396780a2",
+      "bytes": 2555,
+      "sha256": "9ceafd40f805b88986c294219c7210bebe07974b8eb1f52b57d4aaa2d0a8c7ff"
+    },
+    {
+      "id": "voa-3714862",
+      "title": "Common Adverbs in Conversation: Amplifiers, Downtoners",
+      "description": "In this Everyday Grammar program, we examine some of the most important adverbs that you will hear in everyday speech. There is even a special name for them. They are called amplifiers and downtoners.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-03-13",
+      "sourceUrl": "https://learningenglish.voanews.com/a/amplifiers-downtoners/3714862.html",
+      "credit": "John Russell wrote this story for Learning English. George Grow was the editor.",
+      "genre": "language",
+      "wordCount": 909,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 82,
+        "cet4": 73,
+        "cet6": 66
+      },
+      "paragraphCount": 53,
+      "latestContentVersion": "8ff69af44b01ca5b44447f4bd79b23b6ebb4da0c05f8a9346e8be219bc673bc2",
+      "bytes": 5831,
+      "sha256": "e2352b4b6b665b44f0f4f82d88d419f20f69af2f4e640ee025747caa63326d46"
+    },
+    {
+      "id": "voa-7983180",
+      "title": "Philadelphia: a City Famous for its History",
+      "description": "Philadelphia is also called \"the city of brotherly love.\" Established by William Penn in the 1680s, the city was important to the American independence movement and was for a time the United States capital.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-03-09",
+      "sourceUrl": "https://learningenglish.voanews.com/a/philadelphia-a-city-famous-for-its-history-/7983180.html",
+      "credit": "Nancy Steinbach wrote this story for VOA Learning English. John Russell adapted it.",
+      "genre": "news",
+      "wordCount": 379,
+      "goals": [
+        "general",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 75,
+        "cet4": 60,
+        "cet6": 54
+      },
+      "paragraphCount": 11,
+      "latestContentVersion": "19ba554746d1fc134f405e1c9a42783c3e3657d0660ea6c6e2d2a621204eff75",
+      "bytes": 2811,
+      "sha256": "1e0d6d974fbdafe6aa1d25fbf861e5fc18661fd1e61668523f5640320cc489cb"
+    },
+    {
+      "id": "voa-3702382",
+      "title": "Adverb and Adjective Choices in Conversation",
+      "description": "In today's Everyday Grammar, we will study how conversational grammar differs from written and formal grammatical structures. Americans often use adjective forms in place of adverbs. Americans also may use an adverb but choose not to say an –ly ending.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-03-06",
+      "sourceUrl": "https://learningenglish.voanews.com/a/adverbs-and-adjectives/3702382.html",
+      "credit": "John Russell wrote this story for Learning English. Caty Weaver was the editor.",
+      "genre": "language",
+      "wordCount": 686,
+      "goals": [
+        "general",
+        "cet4"
+      ],
+      "examVocabulary": {
+        "ielts": 58,
+        "cet4": 53,
+        "cet6": 45
+      },
+      "paragraphCount": 42,
+      "latestContentVersion": "100856741a97209d828bb365e6457c942f79275a8dd9c757784a969b0fdae3ef",
+      "bytes": 4407,
+      "sha256": "81e76ae7d689b0ab15fac7111bc39654bdadd5ca9a90f8ffd1f740bf1c166949"
+    },
+    {
+      "id": "voa-7988815",
+      "title": "Skyscrapers, Made in America",
+      "description": "Tall buildings were limited before the 1880s because of construction materials and safety. Two developments helped them to grow – safer elevators and steel.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-03-03",
+      "sourceUrl": "https://learningenglish.voanews.com/a/skyscrapers-made-in-america-/7988815.html",
+      "credit": "Jerilyn Watson reported this story for VOA Learning English. Jill Robbins adapted it for VOA Learning English with additional materials.",
+      "genre": "news",
+      "wordCount": 481,
+      "goals": [
+        "general",
+        "ielts",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 59,
+        "cet4": 52,
+        "cet6": 52
+      },
+      "paragraphCount": 14,
+      "latestContentVersion": "b9ae562e939f84cb01eb5a1249b94e301416449a54b9ebedcff0e01345c4c118",
+      "bytes": 3345,
+      "sha256": "8cd4d1093f272a06cd0c6527bff05644d634d7eb25085019a17f6464c03db103"
+    },
+    {
+      "id": "voa-6724744",
+      "title": "Reviewing Your Birthday Message",
+      "description": "In this week's Everyday Grammar, we revisit a birthday message from a listener.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-02-27",
+      "sourceUrl": "https://learningenglish.voanews.com/a/reviewing-your-birthday-message/6724744.html",
+      "credit": "Faith Pirlo wrote this lesson for VOA Learning English.",
+      "genre": "news",
+      "wordCount": 616,
+      "goals": [
+        "general",
+        "ielts",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 38,
+        "cet4": 35,
+        "cet6": 27
+      },
+      "paragraphCount": 45,
+      "latestContentVersion": "a3ec6c5523fc469893afde1c5e21f76e7f14d91095b24aa33e8c45edb53c4735",
+      "bytes": 3858,
+      "sha256": "6c0582b6cd2b71f02988a037253faa71235ac4d87bd2e1f9c7bd50f2200b07cb"
+    },
+    {
+      "id": "voa-6705484",
+      "title": "Describing Your Birthday",
+      "description": "In this week’s Everyday Grammar, we talk about how to describe our birthdays.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-02-20",
+      "sourceUrl": "https://learningenglish.voanews.com/a/describing-your-birthday/6705484.html",
+      "credit": "Faith Pirlo wrote this lesson for VOA Learning English.",
+      "genre": "news",
+      "wordCount": 796,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 55,
+        "cet4": 34,
+        "cet6": 28
+      },
+      "paragraphCount": 68,
+      "latestContentVersion": "22786f71cd881da3c9d4041632a7c0c05dc37a8c91dc30e6506acec0a5b1ae94",
+      "bytes": 4843,
+      "sha256": "caeb2fd38af143ad2d5d77bd9d771f2e1fd75fd25dc2d3ffe5d407303ce09fa4"
+    },
+    {
+      "id": "voa-3499292",
+      "title": "Academic Writing: Common Sentence Patterns, Part Four",
+      "description": "English has many patterns. Learning and mastering these patterns can help you improve your writing and speaking skills. Today's common pattern is the transitive verb pattern. There are several types of transitive verbs, but they all have one thing in common: a direct object.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-02-13",
+      "sourceUrl": "https://learningenglish.voanews.com/a/everyday-grammar-common-sentence-patterns-part-4/3499292.html",
+      "credit": "John Russell wrote this story for Learning English. George Grow was the editor.",
+      "genre": "news",
+      "wordCount": 1072,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 89,
+        "cet4": 68,
+        "cet6": 60
+      },
+      "paragraphCount": 67,
+      "latestContentVersion": "1bbaff3c602e321651a13fce800d0862207eb8c0af9276b69b39ff1448b1a010",
+      "bytes": 6516,
+      "sha256": "6d5a247279d8449d1e4201a984e5124307e9a37f68af6c0a6f7453462de1e0fe"
+    },
+    {
+      "id": "voa-3488629",
+      "title": "Academic Writing: Common Sentence Patterns, Part Three",
+      "description": "What are intransitive verbs and how are they used? Find out in the third part of our series about common sentence patterns in the English language.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-02-06",
+      "sourceUrl": "https://learningenglish.voanews.com/a/everyday-grammar-common-sentence-patterns-part-3/3488629.html",
+      "credit": "John Russell wrote this story for Learning English. Mario Ritter was the editor.",
+      "genre": "news",
+      "wordCount": 732,
+      "goals": [
+        "general",
+        "ielts",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 65,
+        "cet4": 64,
+        "cet6": 54
+      },
+      "paragraphCount": 53,
+      "latestContentVersion": "425ee56c8227b6cf046e685b2ab42e999a46d754b4bf1afebee5c4a1f66d54c7",
+      "bytes": 5026,
+      "sha256": "eae3f4198f17b76f4522e92a6afde75c7c31a9ac670d0b2a871fbed628e880c6"
+    },
+    {
+      "id": "voa-3997498",
+      "title": "Academic Writing: Common Sentence Patterns, Part Two",
+      "description": "In this week's report, we are going to explore one pattern that is commonly used in academic writing. Academic writers often use it to judge an idea. The structure we are exploring starts with a noun followed by a \"that clause.\"",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-01-30",
+      "sourceUrl": "https://learningenglish.voanews.com/a/academic-writing-common-patterns-part-two-everyday-grammar/3997498.html",
+      "credit": "John Russell adapted it for Learning English. Caty Weaver was the editor.",
+      "genre": "news",
+      "wordCount": 686,
+      "goals": [
+        "general",
+        "ielts",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 71,
+        "cet4": 66,
+        "cet6": 58
+      },
+      "paragraphCount": 33,
+      "latestContentVersion": "e304427719bed11d5d0a07933a6d07626e61c94ebdd8d5ba3331d5b40bd7a2f0",
+      "bytes": 4456,
+      "sha256": "da7da548176bb8df37270419cb700faeee803691cdad0d9391ffb9bfe394902f"
+    },
+    {
+      "id": "nasa-41fa33a940a90fd4",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "description": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, host",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+      "publishedAt": "2026-10-30",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 313,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 62,
+        "cet4": 57,
+        "cet6": 54
+      },
+      "paragraphCount": 9,
+      "latestContentVersion": "1d74a0def6e92c6f3d720d8be85f9c22c5f1128606a8e4682f7e94cd288d187a",
+      "bytes": 2320,
+      "sha256": "abf34562a5c251c07045a15503717dc0703521c4e91f5491973de364271fa54a"
+    },
+    {
+      "id": "nasa-2d88ce8f7f5eb856",
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "description": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astro",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "publishedAt": "2026-10-29",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 735,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 109,
+        "cet4": 123,
+        "cet6": 123
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "16dad28339599ac9acf85e38afcfe926e70e32953f2045aaead49f1e1c55f26b",
+      "bytes": 5022,
+      "sha256": "08b934582102f78001e52d154b21d2f2defbf9772c58ee20cf280b9e0bffc5e1"
+    },
+    {
+      "id": "nasa-6a8e8f4a60c54205",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "description": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace e",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+      "publishedAt": "2026-10-29",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 612,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 76,
+        "cet4": 70,
+        "cet6": 70
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "a0217eafd7159d46894ba2f3039fcf9314ff6b9919b500f1dc608844d7721743",
+      "bytes": 4518,
+      "sha256": "58d418c4b3c1131e6a94e0908ebbd419ab23faca8244ee9b0c257c627104811a"
+    },
+    {
+      "id": "nasa-dddd54e7732bfe41",
+      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "description": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonf",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
+      "publishedAt": "2026-10-29",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 359,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 58,
+        "cet4": 50,
+        "cet6": 53
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "5d12cf60e0611b12fba31f9b281020f3c86d6c71c6ae727964c22316ece76ff8",
+      "bytes": 2671,
+      "sha256": "626a16869686af7ae38fde644293d158807ec3ec388674db4c75a47f44891e76"
+    },
+    {
+      "id": "nasa-ed6e3d4d78aea935",
+      "title": "Halloween Aboard the International Space Station",
+      "description": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in t",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+      "publishedAt": "2026-10-29",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 128,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 29,
+        "cet4": 32,
+        "cet6": 31
+      },
+      "paragraphCount": 5,
+      "latestContentVersion": "ab642807ff35f2be0aa7ba414d9cf6b200f68986cecd0f4d1d0c596f1190b1ce",
+      "bytes": 1133,
+      "sha256": "3044f2db691fd0eabffa5111a9e06cbdbe0e252c7462878adaa336e83cc5d15f"
+    },
+    {
+      "id": "nasa-23fc4b02995c7c16",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "description": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "publishedAt": "2026-10-28",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 758,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 124,
+        "cet4": 116,
+        "cet6": 112
+      },
+      "paragraphCount": 20,
+      "latestContentVersion": "9ece897c5bb35a2cbb88edfb1f3617bcab132d1f68a369d294e352f7b187b6bd",
+      "bytes": 5022,
+      "sha256": "9e7a3915efd821f80cdf4472f2d78915e7515df860c7a64f2160227967424a5e"
+    },
+    {
+      "id": "nasa-71e6962cecf66d3a",
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "description": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facili",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "publishedAt": "2026-10-27",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 384,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 65,
+        "cet4": 61,
+        "cet6": 57
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "a21adc1436136adba682b4825f3e809d4b57b708d6151264f0360dadd7bfca4d",
+      "bytes": 2872,
+      "sha256": "a380718541b44e2c1c77140cd8778a613b96d46e3d3b6d07b888b7befff4d5f3"
+    },
+    {
+      "id": "nasa-89b82efc97f5f84f",
+      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+      "description": "Members of the media are invited to tour a new lunar landing simulation at NASA’s Ames Research Center in California’s Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+      "publishedAt": "2026-10-26",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 248,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 50,
+        "cet4": 49,
+        "cet6": 49
+      },
+      "paragraphCount": 7,
+      "latestContentVersion": "6cbd02e69c5539f139cd6c95a169fdb49764f2f7faeca5499195bab52a93b642",
+      "bytes": 1925,
+      "sha256": "a3a3b364c54d3480a795792bc7bf596b9b4ade3e8be5b92ca3c493f6a5c69c82"
+    },
+    {
+      "id": "nasa-dfc519dd5290724c",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "description": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried abo",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "publishedAt": "2026-10-26",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1054,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 155,
+        "cet4": 156,
+        "cet6": 157
+      },
+      "paragraphCount": 19,
+      "latestContentVersion": "02e3caad04a4e12643b768fcb0abf0c927bf86cf5afcfbf36f317d055bce3a90",
+      "bytes": 7391,
+      "sha256": "c3c5b8c194ff4c73e0ba6af7dfc3cbbec00b8847f6b6e79162d44f1dbda42a2b"
+    },
+    {
+      "id": "nasa-2dbe5da910a8a7ed",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "description": "NASA is helping to foster long-term energy security in Virginia.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
+      "publishedAt": "2026-10-23",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 395,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 93,
+        "cet4": 87,
+        "cet6": 91
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "9bc1b92f60a7ddcaa0ab477bbb162a8c4b9cf6ebca4e13b4087e412ca7812e41",
+      "bytes": 3197,
+      "sha256": "66955759b5832fbdf92ad4cba9afa361b581e2c039a84200f1510ac4f89239f3"
+    },
+    {
+      "id": "nasa-452bf28ae114f7dc",
+      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+      "description": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "publishedAt": "2026-10-23",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1401,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 179,
+        "cet4": 179,
+        "cet6": 187
+      },
+      "paragraphCount": 29,
+      "latestContentVersion": "04ed08a41259db4ef6d1276d9302377631ad57aa373bc9152ce33cde9984d299",
+      "bytes": 9987,
+      "sha256": "b79f53a6ed6a22407baf18bd0b2d27efe70dd59f14f9cdeed3e2869018451879"
+    },
+    {
+      "id": "nasa-57c0a5f2d9657bbd",
+      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "description": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Or",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "publishedAt": "2026-10-23",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1259,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 128,
+        "cet4": 131,
+        "cet6": 123
+      },
+      "paragraphCount": 18,
+      "latestContentVersion": "dd9b2ee59a14b7f61f8305b7563d7a71eb67d0186fbc9d013776beca2f344911",
+      "bytes": 8381,
+      "sha256": "7a7afc4c0a05c434aceb393c078ac3a05d187ca305d86e3dd782eff677c88635"
+    },
+    {
+      "id": "nasa-9e94dc14396e553b",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "description": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsvi",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+      "publishedAt": "2026-10-22",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 192,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 40,
+        "cet4": 35,
+        "cet6": 38
+      },
+      "paragraphCount": 6,
+      "latestContentVersion": "5a32bd819a616285d9fefe258039662634d04e46c7b5e89aae269f99ac1b3b7c",
+      "bytes": 1628,
+      "sha256": "30d5e28c79161a03e476c44f1a533e1da70e1f7065deb7fd277f88d71ce64510"
+    },
+    {
+      "id": "nasa-33222bfd33ec78e1",
+      "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+      "description": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Ad",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+      "publishedAt": "2026-10-21",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 314,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 59,
+        "cet4": 49,
+        "cet6": 53
+      },
+      "paragraphCount": 7,
+      "latestContentVersion": "cd551c9916d707c236031d9a0604f21a08fe9ee0683a38c4a35a242f409f4812",
+      "bytes": 2381,
+      "sha256": "aaef8751265b4b22a59bd9196fc622de8449b80fc87ba5c4742a4765df64c25a"
+    },
+    {
+      "id": "nasa-a51b31652d0be7c6",
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "description": "Interstellar probes. Lunar drones. Helicopters on Mars.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "publishedAt": "2026-10-21",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 843,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 143,
+        "cet4": 143,
+        "cet6": 145
+      },
+      "paragraphCount": 13,
+      "latestContentVersion": "d448ab77b1d31bad41ed16a58e5d7adce8e4a04121644aeaefb83e07baf6ce14",
+      "bytes": 5800,
+      "sha256": "164dfa4721fa311b7a2ee4739e798fb712ec5699452d3ca1fe1643fa7174c9a6"
+    },
+    {
+      "id": "nasa-d84f2255ba8f6501",
+      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+      "description": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ig",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+      "publishedAt": "2026-10-20",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 376,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 84,
+        "cet4": 86,
+        "cet6": 87
+      },
+      "paragraphCount": 6,
+      "latestContentVersion": "77fc72ffa96d14a13b05eb4c0d5fc855475bc00dbc8b1f73dfdf4be5611e6b77",
+      "bytes": 2951,
+      "sha256": "0feefd5ac040e11e6cdf0c4300fe5f8fa1924b74a06259cd4437b23fd314f537"
+    },
+    {
+      "id": "nasa-e94a5ee8d763551a",
+      "title": "NASA Provides Progress Update on Moon Base Rovers",
+      "description": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terr",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+      "publishedAt": "2026-10-20",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1072,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 151,
+        "cet4": 138,
+        "cet6": 147
+      },
+      "paragraphCount": 19,
+      "latestContentVersion": "f4b16a25a1caf6738cf7dbd63e1fc22340470b062e0617b8ff4c360ed0b81928",
+      "bytes": 7239,
+      "sha256": "3069e193785cfb994c6a6c1ff7906fea7bc05dfac3af4dc8d3d5cde13c4aba1f"
+    },
+    {
+      "id": "nasa-134d7d2f1a2e8c4c",
+      "title": "Experimental Facilities",
+      "description": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propu",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
+      "publishedAt": "2026-10-19",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1469,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 182,
+        "cet4": 182,
+        "cet6": 193
+      },
+      "paragraphCount": 16,
+      "latestContentVersion": "61b623e02de50cf4edc5e6d08f6a656b63f3763d304df36abacd5420f80094ca",
+      "bytes": 9933,
+      "sha256": "e2463376755fa6e6af6bf4a8a53ccd234b4016e02d9a5ff52841f7a9f5097e95"
+    },
+    {
+      "id": "nasa-6cab8ea372fc6c9d",
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "description": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves ",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+      "publishedAt": "2026-10-19",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 706,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 130,
+        "cet4": 140,
+        "cet6": 137
+      },
+      "paragraphCount": 14,
+      "latestContentVersion": "714d200159122cb3cf852d7c60e9052eca125d8d3dcf79a42ae2a1320e3b0acf",
+      "bytes": 5104,
+      "sha256": "24aec5d8e76d97b20334a0e85f0e583fa8b065e98bfeffcc1c1d51bd20e265f2"
+    },
+    {
+      "id": "nasa-c6f3ba05ddf4993d",
+      "title": "Instrumentation",
+      "description": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy,",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+      "publishedAt": "2026-10-19",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 413,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 71,
+        "cet4": 71,
+        "cet6": 70
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "7375fb87e259c54d780aac1d0e45bf104ebdecd3ebe75eba68477eb85aa9a033",
+      "bytes": 2893,
+      "sha256": "a6f8ab45f3e725623cb9c3e198ac6e3ab27df92eedc997da1ee80f3ef836992b"
+    },
+    {
+      "id": "nasa-e15503340f1d14f1",
+      "title": "Software",
+      "description": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design an",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+      "publishedAt": "2026-10-19",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 933,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 120,
+        "cet4": 133,
+        "cet6": 131
+      },
+      "paragraphCount": 13,
+      "latestContentVersion": "5fd5a0922bb0e476de5fea6812b45ebb5e7fd46d16ea0834ae077ffe5000f0ad",
+      "bytes": 6410,
+      "sha256": "d2da36d304b9ecbf609e9276049afaa520b6889bf7f6bddba27519800bb9a4d2"
+    },
+    {
+      "id": "nasa-3b5dbc13df98572c",
+      "title": "I Am Artemis: Allison Mjoen",
+      "description": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+      "publishedAt": "2026-10-16",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 496,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 85,
+        "cet4": 86,
+        "cet6": 79
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "9b34ebcb1695f695c6ef9f607714bc15e3ef6d2a47fcd1ee5af4fd3cd3587b26",
+      "bytes": 3570,
+      "sha256": "1eb150cfed0ba336e7cf5a49a2bea1b52838237777b5153affd65fff84495762"
+    },
+    {
+      "id": "nasa-472f9f8e7d3f265b",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "description": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NA",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "publishedAt": "2026-10-16",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 688,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 110,
+        "cet4": 95,
+        "cet6": 94
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "d3be76c1bfe7fe264c94fe2ccbda0861eb8a73b156a0db34f5e78c7f44bcbeb2",
+      "bytes": 4982,
+      "sha256": "71cce74789982c647ad3fdeabb6981c932b3b8671b7d62b9068cb88994c5273e"
+    },
+    {
+      "id": "nasa-249fd8d9e74a7921",
+      "title": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply",
+      "description": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily ac",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
+      "publishedAt": "2026-10-15",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 282,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 54,
+        "cet4": 55,
+        "cet6": 57
+      },
+      "paragraphCount": 5,
+      "latestContentVersion": "cf59c8dcab5db27da6cc8897318d93ec0e6ca9d10318a2ceea0dcc9eaa0fe7f0",
+      "bytes": 2214,
+      "sha256": "72c892eff30b866097e8e0692749e7eb53c8be6f7d8ee020a4edd2ee98f7255d"
+    },
+    {
+      "id": "nasa-3b2f7a3b6ccfa131",
+      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+      "description": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Fl",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
+      "publishedAt": "2026-10-14",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 219,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 43,
+        "cet4": 35,
+        "cet6": 35
+      },
+      "paragraphCount": 6,
+      "latestContentVersion": "db7cbcd52a902fe4b1708d937eea11d8d3392f819e5806de6db5da6d173b1ceb",
+      "bytes": 1667,
+      "sha256": "b83566fc93a78fb2c56af97df40eac54d90dda442fa0f9f86fe765fc0c75d222"
+    },
+    {
+      "id": "nasa-47fad2329e7a41ac",
+      "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+      "description": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA research",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "publishedAt": "2026-10-14",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 791,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 116,
+        "cet4": 121,
+        "cet6": 120
+      },
+      "paragraphCount": 17,
+      "latestContentVersion": "5cdad562d305f06be52d3c2a0d258c49bc65eb6fff42eabb32845cfe4c87f3d6",
+      "bytes": 5477,
+      "sha256": "f9454d4efb46e35041b693ce8d59c3a008e7f7b83d2020c5c192c1cdb01386d0"
+    },
+    {
+      "id": "nasa-9ab900e4fa8fe878",
+      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+      "description": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tue",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+      "publishedAt": "2026-10-14",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 335,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 48,
+        "cet4": 47,
+        "cet6": 46
+      },
+      "paragraphCount": 11,
+      "latestContentVersion": "050e7fb8e3eb64fed04d1e746e1fe4c550dd14c687a9f9bd4c1b3b4ee094065e",
+      "bytes": 2528,
+      "sha256": "3d5cdcaed47620373afbf9aa4bfdf996e9c3b715adea869294704992078fce16"
+    },
+    {
+      "id": "nasa-17666ac8cb2e44ce",
+      "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+      "description": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, wh",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
+      "publishedAt": "2026-10-13",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 593,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 98,
+        "cet4": 86,
+        "cet6": 87
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "ae6f0dec7b2d78d1051efef5f45e7a1efe3d34f647c62d9b3fba0a1b42bacc07",
+      "bytes": 4463,
+      "sha256": "b3f44f94054ff0cfd6d6ece86468943515d2597443a535079a3a89a2eaaf7788"
+    },
+    {
+      "id": "nasa-9bbfc0f84ff7a182",
+      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+      "description": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s ",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "publishedAt": "2026-10-13",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 669,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 113,
+        "cet4": 109,
+        "cet6": 117
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "c569fdd5595ccb841ece65ea2bf903241d4bf1790715287c746a873e934f869c",
+      "bytes": 4859,
+      "sha256": "c9374d42bf8112d0e3296c06cd0e7c1cb0ccc5afa1b7572d27b8458851bec306"
+    },
+    {
+      "id": "nasa-dd53e3f058a1b779",
+      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
+      "description": "Complex mode shapes can emerge in a linear structure even when overall damping is low. This behavior can occur when two structural modes are closely spaced in frequency and are cou",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+      "publishedAt": "2026-10-13",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 401,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 62,
+        "cet4": 84,
+        "cet6": 83
+      },
+      "paragraphCount": 5,
+      "latestContentVersion": "3edf77da1a666c95dddb1f3c0782ac58bdd48e369012cfec3ea76688412fec26",
+      "bytes": 3250,
+      "sha256": "e927ca2bb7f982caca40640b62405ddfee51a5f1ea8bd27050865fb7d75e3bc4"
+    },
+    {
+      "id": "nasa-e2b470dba130b961",
+      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+      "description": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Fl",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+      "publishedAt": "2026-10-13",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 404,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 88,
+        "cet4": 83,
+        "cet6": 76
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "9cf8f9b3a7e9022ad9e71b0ac1f17296eddb9d1f2ec79a11b1a6b8cd6dceaeed",
+      "bytes": 3046,
+      "sha256": "380bcd70a6871ca619ca2f52d34b51800340f10082bd31987a8277199c593b6f"
+    },
+    {
+      "id": "nasa-a6250952bd65a37d",
+      "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+      "description": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+      "publishedAt": "2026-10-10",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 236,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 46,
+        "cet4": 39,
+        "cet6": 43
+      },
+      "paragraphCount": 6,
+      "latestContentVersion": "ebbe44a0f0225acdba8c35164c184735382324ce726a17bbea2e679aa98676ef",
+      "bytes": 1856,
+      "sha256": "69250e9406d06c72ccb3bd4164069ccaf060a3086934ab0895ecf9b8103f6e26"
+    },
+    {
+      "id": "nasa-a4106c4b8a33ca37",
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "description": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency releas",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+      "publishedAt": "2026-10-09",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 419,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 85,
+        "cet4": 69,
+        "cet6": 68
+      },
+      "paragraphCount": 9,
+      "latestContentVersion": "3c1783d855e7925d68e90680318805c72dc3a889a19cf9429dff6218650a6616",
+      "bytes": 3202,
+      "sha256": "3f363b0d0073f176c7952daf45f7ee9deaaa4079161715a7e03c0c0b53759a59"
+    },
+    {
+      "id": "nasa-b85427f614ddb37d",
+      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+      "description": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+      "publishedAt": "2026-10-09",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 745,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 120,
+        "cet4": 115,
+        "cet6": 121
+      },
+      "paragraphCount": 16,
+      "latestContentVersion": "ebb8bd1aa5823ba2c553e04ea19f30f38b68747d2cebf1963db7c9642717cb7c",
+      "bytes": 5326,
+      "sha256": "6e8e4964fc721b3e0aa15c85b3e507a37e2a3c557fb7baa28830afc372e57c59"
+    },
+    {
+      "id": "nasa-06991627699fd4a6",
+      "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
+      "description": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
+      "publishedAt": "2026-10-08",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 592,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 122,
+        "cet4": 115,
+        "cet6": 121
+      },
+      "paragraphCount": 13,
+      "latestContentVersion": "0e4feaa534420f6536971335da1dd354969f25193675c93600cd275428eebfae",
+      "bytes": 4479,
+      "sha256": "28cadc73f1c19ae578a82e484f1e866a415ee17805e37201119d88193138c325"
+    },
+    {
+      "id": "nasa-508dbedb31c35a4c",
+      "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+      "description": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. ",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "publishedAt": "2026-10-08",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 654,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 110,
+        "cet4": 98,
+        "cet6": 86
+      },
+      "paragraphCount": 13,
+      "latestContentVersion": "193999be72eb5c593be515c2f9e88e6219d15adbd49986a5914c8b89524fd3b2",
+      "bytes": 4750,
+      "sha256": "c8e3ca517e6c38465d393c23d3c7bcdc9760a395a2626526c6cac8c3f27ae0d7"
+    },
+    {
+      "id": "nasa-59ce0cb3c0592a8a",
+      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+      "description": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Mar",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "publishedAt": "2026-10-08",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 290,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 43,
+        "cet4": 37,
+        "cet6": 39
+      },
+      "paragraphCount": 7,
+      "latestContentVersion": "29a7c86bfc919b64e1cb7fbe2b9e0f846f10bdfef61e0c81424ebbdb4874bb2e",
+      "bytes": 2293,
+      "sha256": "87e8daa7fe6d71ed1b884eda240d5810557ef6bfe78f249287e9ae3a61edd9e2"
+    },
+    {
+      "id": "nasa-5a9a117643219a5e",
+      "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+      "description": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects t",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+      "publishedAt": "2026-10-08",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 838,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 132,
+        "cet4": 125,
+        "cet6": 126
+      },
+      "paragraphCount": 15,
+      "latestContentVersion": "4a0e0c8a1373c3fda14e4563714b4ed807ec0e22553e78b94b2da3b0ff8c7613",
+      "bytes": 5679,
+      "sha256": "183e2b42fde123309ebb5145aa2ac0233945fabc8735d51a7f5abbab76c622b6"
+    },
+    {
+      "id": "nasa-c8f73fc3067539cf",
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+      "description": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbi",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+      "publishedAt": "2026-10-08",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 380,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 75,
+        "cet4": 68,
+        "cet6": 72
+      },
+      "paragraphCount": 9,
+      "latestContentVersion": "be6e8b15ca0e856459dcfc679f245b5c3d5d590b04fc674d09e63f0d8625263b",
+      "bytes": 2926,
+      "sha256": "04ee6bedd50511ec4ac8b82622905843fe045196c84d11c27235b3d91cae48fd"
+    },
+    {
+      "id": "nasa-e16f84280efb242f",
+      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+      "description": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "publishedAt": "2026-10-08",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 259,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 51,
+        "cet4": 50,
+        "cet6": 52
+      },
+      "paragraphCount": 7,
+      "latestContentVersion": "0e2e0369c15b455603db87a5c1a7107497f5ef46d8b36c6752af8523fab711d4",
+      "bytes": 2057,
+      "sha256": "6803c24a22c663af5c8381bef47609a129f0ae45ce6e68e4be92d0a2bfa0edc7"
+    },
+    {
+      "id": "nasa-fbb1e012c43d81af",
+      "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+      "description": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of Internatio",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "publishedAt": "2026-10-07",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 560,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 94,
+        "cet4": 82,
+        "cet6": 79
+      },
+      "paragraphCount": 17,
+      "latestContentVersion": "ce9b02bb15875f272ddec633796e2179b34186d1b76745ad80a64dce846c64da",
+      "bytes": 4110,
+      "sha256": "45bf6408b25e94beeb538e0215fdd21f36183dbb41f3bc3feb4047132b76e6b9"
+    },
+    {
+      "id": "nasa-66089d1385a5a0b1",
+      "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
+      "description": "A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientist",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/",
+      "publishedAt": "2026-10-06",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 479,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 79,
+        "cet4": 70,
+        "cet6": 65
+      },
+      "paragraphCount": 9,
+      "latestContentVersion": "6cdf6a68748cd1d883a109f60ea2ee6ceb720dc0e64ac482ff5e4531e81caa97",
+      "bytes": 3416,
+      "sha256": "510b6eb2113d0b96e009fffcad711e94fa222e116f3f5d052ddc024ec924956e"
+    },
+    {
+      "id": "nasa-76236321861c0846",
+      "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
+      "description": "After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumman’s Cygnus XL spacecraft is s",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
+      "publishedAt": "2026-10-06",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 213,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 37,
+        "cet4": 36,
+        "cet6": 34
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "d43fc483845311ce5c92e174dc41ac13992f0672cbad6b9a1ba2ae24c8ddb796",
+      "bytes": 1772,
+      "sha256": "f7be860ba0a95d352c84bd17c1231add52c778455dea2b76f8f930c8f90b812a"
+    },
+    {
+      "id": "nasa-92674fec78b5b197",
+      "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
+      "description": "NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory. The principal purpose of this proc",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/",
+      "publishedAt": "2026-10-06",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 232,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 51,
+        "cet4": 48,
+        "cet6": 47
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "5134bf103840e2ec5c08ae91a3bbf0c7b38b29222063c4b9379754bb359425d4",
+      "bytes": 1909,
+      "sha256": "6fa8e93b7cee04c37f36d2e95ec56634e46497bb2495769bfa704d3450057e36"
+    },
+    {
+      "id": "nasa-2b3fb9c367c33913",
+      "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
+      "description": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the futu",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
+      "publishedAt": "2026-10-02",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 280,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 50,
+        "cet4": 51,
+        "cet6": 49
+      },
+      "paragraphCount": 6,
+      "latestContentVersion": "41e2e80e0b3d692c97498cc2bfef9976b3bfc4d1f1fafe381795d76d99c66a6d",
+      "bytes": 2189,
+      "sha256": "7f1e2a1934dc27004da4a3f87e6556209525b8054b85cc46386aeac3dab5cc0d"
+    },
+    {
+      "id": "nasa-4de9c63a1c81f978",
+      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+      "description": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eag",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+      "publishedAt": "2026-10-02",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 298,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 52,
+        "cet4": 43,
+        "cet6": 47
+      },
+      "paragraphCount": 6,
+      "latestContentVersion": "9d7cfe84ddb112ceefb11369969466b0b3fd01caeb26466f5f918a2f9dd1776a",
+      "bytes": 2294,
+      "sha256": "5b91a7dc7a55e82da184782aac7f3f939e2dbec2ebcc1dcc60e00e6f616e1619"
+    },
+    {
+      "id": "nasa-9303edfce056f1aa",
+      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "description": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut S",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+      "publishedAt": "2026-10-02",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 862,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 160,
+        "cet4": 156,
+        "cet6": 153
+      },
+      "paragraphCount": 20,
+      "latestContentVersion": "f1ff70dd6a623be901195f0a9f1cafa498ee9f6b18527c44cae7bef4b7e3d2f6",
+      "bytes": 6281,
+      "sha256": "a903f04f9420d9c504c49baa447a5bb0bfff08a96673069e759abb08181b6007"
+    },
+    {
+      "id": "nasa-fab738555ca449b6",
+      "title": "NASA Opens Applications for Next Class of Flight Directors",
+      "description": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. T",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/",
+      "publishedAt": "2026-10-02",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 364,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 73,
+        "cet4": 67,
+        "cet6": 66
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "b79a364d5e4901b22580ab1370e7bde4e0e0fb0867fd89a357d75e72db867afb",
+      "bytes": 2879,
+      "sha256": "c6e7d8e121e0971c2cef4984a0b9465bdd0cced9c1ee18aaf85044024f65a07d"
+    },
+    {
+      "id": "alice-chapter-1",
+      "title": "Alice’s Adventures in Wonderland · I: Down the Rabbit-Hole",
+      "description": "Lewis Carroll · 第 1 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 1,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-1.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 2142,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 140,
+        "cet4": 139,
+        "cet6": 129
+      },
+      "paragraphCount": 24,
+      "latestContentVersion": "4da6a5f3f9189820bdbc9b156b96f8db03e18355d70aeb0599a695cbe9f0252a",
+      "bytes": 11800,
+      "sha256": "f5e6dc6ad8c23f5e904e3c9c9ffd6dbe428ba8949ce2467880f73c7eb6e125f4"
+    },
+    {
+      "id": "alice-chapter-2",
+      "title": "Alice’s Adventures in Wonderland · II: The Pool of Tears",
+      "description": "Lewis Carroll · 第 2 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 2,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-2.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 2059,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 131,
+        "cet4": 131,
+        "cet6": 127
+      },
+      "paragraphCount": 23,
+      "latestContentVersion": "6f3c075f39e16ed9c42de0221db837721291bd3bf4c2731c6756325568849efb",
+      "bytes": 11286,
+      "sha256": "f665db1def8e641f56bbf5f65c3f1d3334d1f0754c168cc55a448da4d5613ea1"
+    },
+    {
+      "id": "alice-chapter-3",
+      "title": "Alice’s Adventures in Wonderland · III: A Caucus-Race and a Long Tale",
+      "description": "Lewis Carroll · 第 3 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 3,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-3.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 1617,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 127,
+        "cet4": 122,
+        "cet6": 127
+      },
+      "paragraphCount": 47,
+      "latestContentVersion": "17aa7b1128ac0d26b1f7402f4f8313c52cdc5cbbfebf3474fcda38a1bd402dc8",
+      "bytes": 9479,
+      "sha256": "85b9bf0d603324ef6c0330ad87a5fb74af2a09e9b54e981d4038a6a72ee37e7f"
+    },
+    {
+      "id": "alice-chapter-4",
+      "title": "Alice’s Adventures in Wonderland · IV: The Rabbit Sends in a Little Bill",
+      "description": "Lewis Carroll · 第 4 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 4,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-4.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 2648,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 154,
+        "cet4": 169,
+        "cet6": 165
+      },
+      "paragraphCount": 42,
+      "latestContentVersion": "3182cc30be9fc2ab107ad7a76205ebff447d00481e2718322d8a277dedc6af99",
+      "bytes": 14664,
+      "sha256": "b4867df453051c94bf9f9b0cfd07c1fa8e7c80b225df29a993b2271c67c2ba59"
+    },
+    {
+      "id": "alice-chapter-5",
+      "title": "Alice’s Adventures in Wonderland · V: Advice from a Caterpillar",
+      "description": "Lewis Carroll · 第 5 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 5,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-5.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 1895,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 135,
+        "cet4": 120,
+        "cet6": 110
+      },
+      "paragraphCount": 67,
+      "latestContentVersion": "62048fcd28c30317facf9b6954425ae3497414f87615bfee741ba1f9c387c131",
+      "bytes": 11203,
+      "sha256": "9bbbaebe1f47009dcb622121f41ff0760cd763054be2c0c9b21addacb9a6a2b6"
+    },
+    {
+      "id": "alice-chapter-6",
+      "title": "Alice’s Adventures in Wonderland · VI: Pig and Pepper",
+      "description": "Lewis Carroll · 第 6 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 6,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-6.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 2545,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 141,
+        "cet4": 147,
+        "cet6": 148
+      },
+      "paragraphCount": 76,
+      "latestContentVersion": "88cfacfcbd670e5b2ebc8496b318772932f880ec9e2909bcd7c31bd30b1db594",
+      "bytes": 14466,
+      "sha256": "ab1fe40c35867b5857ebe918b3837fc0e12f3b760d5cf77bc0950954ed9d4345"
+    },
+    {
+      "id": "alice-chapter-7",
+      "title": "Alice’s Adventures in Wonderland · VII: A Mad Tea-Party",
+      "description": "Lewis Carroll · 第 7 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 7,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-7.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 2269,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 137,
+        "cet4": 118,
+        "cet6": 109
+      },
+      "paragraphCount": 103,
+      "latestContentVersion": "0e60521b1c37b812ace82eab19bd8dfa5089fa517db4954608ad62a71d664737",
+      "bytes": 13709,
+      "sha256": "b14742328ca6ee2f1c11c7f9a14f9e0e3312eae6b94248eb522a6e9ca64b0b93"
+    },
+    {
+      "id": "alice-chapter-8",
+      "title": "Alice’s Adventures in Wonderland · VIII: The Queen’s Croquet-Ground",
+      "description": "Lewis Carroll · 第 8 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 8,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-8.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 2487,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 135,
+        "cet4": 158,
+        "cet6": 138
+      },
+      "paragraphCount": 71,
+      "latestContentVersion": "2f5189340ea86ee4089a9a8ab8178c2d65e917d344f8978d369773d0d63c42b0",
+      "bytes": 14528,
+      "sha256": "632e48d809f66f699d72697f1a041c52c24d5d6e84853dcb65191a61668bb694"
+    },
+    {
+      "id": "alice-chapter-9",
+      "title": "Alice’s Adventures in Wonderland · IX: The Mock Turtle’s Story",
+      "description": "Lewis Carroll · 第 9 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 9,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-9.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 2286,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 148,
+        "cet4": 150,
+        "cet6": 134
+      },
+      "paragraphCount": 92,
+      "latestContentVersion": "df5e542fd372d42a2a7661531a09106a9325a339e3bcc9ad096c9a4aeefe6628",
+      "bytes": 13767,
+      "sha256": "5a14c67fcf28d9e1e7954f0f777e87ec72f87bdebae96320914ba778adaee9e8"
+    },
+    {
+      "id": "alice-chapter-10",
+      "title": "Alice’s Adventures in Wonderland · X: The Lobster Quadrille",
+      "description": "Lewis Carroll · 第 10 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 10,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-10.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 1560,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 93,
+        "cet4": 90,
+        "cet6": 88
+      },
+      "paragraphCount": 71,
+      "latestContentVersion": "0df7842018c5f4b114d7569049b91e86eecb098fbf6e2188aa657aeeababdd06",
+      "bytes": 9693,
+      "sha256": "3496a75ddf8f2cd131141672ad7ba48ce1e19b26b3ed9e297c4f2cb7f020fbe0"
+    },
+    {
+      "id": "alice-chapter-11",
+      "title": "Alice’s Adventures in Wonderland · XI: Who Stole the Tarts?",
+      "description": "Lewis Carroll · 第 11 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 11,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-11.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 1852,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 122,
+        "cet4": 122,
+        "cet6": 115
+      },
+      "paragraphCount": 73,
+      "latestContentVersion": "d175a711cebc0b25a84c75b200bd9933c303d07634f6fa469c6ecb4918346a18",
+      "bytes": 11107,
+      "sha256": "e69f8433e301e41042e063b5b9942e9d543ffaa80539d00366c7007f477c7ca9"
+    },
+    {
+      "id": "alice-chapter-12",
+      "title": "Alice’s Adventures in Wonderland · XII: Alice’s Evidence",
+      "description": "Lewis Carroll · 第 12 章 · 1865 年英文原作",
+      "bookTitle": "Alice’s Adventures in Wonderland",
+      "chapter": 12,
+      "source": "Standard Ebooks",
+      "sourceUrl": "https://raw.githubusercontent.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/master/src/epub/text/chapter-12.xhtml",
+      "license": "经典公版原作；Standard Ebooks 编辑贡献 CC0",
+      "credit": "Lewis Carroll (1832–1898). Standard Ebooks edition, text only.",
+      "level": "B2",
+      "genre": "fiction",
+      "publishedAt": "1865",
+      "wordCount": 1970,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 148,
+        "cet4": 140,
+        "cet6": 139
+      },
+      "paragraphCount": 64,
+      "latestContentVersion": "f13d4b7a9dcb559bf954d46f9c47a942da6fb27f653f5a1b12ea33f5b06cfec6",
+      "bytes": 11713,
+      "sha256": "c3491205bd239e917d704ff1bf9d2460a8845ca357429f3c921839a92b23bd5d"
+    }
+  ]
+}

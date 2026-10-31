@@ -1,0 +1,105 @@
+{
+  "version": "2026.10-r1",
+  "schemaVer": 1,
+  "shards": [
+    {
+      "id": "#",
+      "file": "lexicon-#.db",
+      "sha256": "a4191010bc55a727805d9308afe1b7a1dd7acc240a0094048375379fe0cab889",
+      "size": 253952,
+      "ver": "2026.10-r1",
+      "from": "#",
+      "to": "#"
+    },
+    {
+      "id": "A-A",
+      "file": "lexicon-A-A.db",
+      "sha256": "d4d754211817ceae7e70aa6e717b8933b4522311932193cd05cb8770edfc86ae",
+      "size": 13398016,
+      "ver": "2026.10-r1",
+      "from": "A",
+      "to": "A"
+    },
+    {
+      "id": "B-C",
+      "file": "lexicon-B-C.db",
+      "sha256": "b0b2d64a1817d99a3cedf7d307c7003639478cca179cbdada8f019f5ae18d333",
+      "size": 28360704,
+      "ver": "2026.10-r1",
+      "from": "B",
+      "to": "C"
+    },
+    {
+      "id": "D-E",
+      "file": "lexicon-D-E.db",
+      "sha256": "0d16af678ae025f543c28d24b7fd8fb9cd39b53b1ed62360894b909382003e95",
+      "size": 16596992,
+      "ver": "2026.10-r1",
+      "from": "D",
+      "to": "E"
+    },
+    {
+      "id": "F-G",
+      "file": "lexicon-F-G.db",
+      "sha256": "16791c5bb17f8fd0ce755fd86ae6a7e7926c78eaac5bfce51fccdd914532d0d7",
+      "size": 14983168,
+      "ver": "2026.10-r1",
+      "from": "F",
+      "to": "G"
+    },
+    {
+      "id": "H-J",
+      "file": "lexicon-H-J.db",
+      "sha256": "d17da803143ad3cbe18ede6777930a53b14489807beaefb8c9a9ed0d41fa524f",
+      "size": 15667200,
+      "ver": "2026.10-r1",
+      "from": "H",
+      "to": "J"
+    },
+    {
+      "id": "K-M",
+      "file": "lexicon-K-M.db",
+      "sha256": "b5b8bb105362224d602cf9aa826f12c6740c20bd00b845ef8c733cbd0ce10889",
+      "size": 19755008,
+      "ver": "2026.10-r1",
+      "from": "K",
+      "to": "M"
+    },
+    {
+      "id": "N-P",
+      "file": "lexicon-N-P.db",
+      "sha256": "da7da677aa04ef772cfa242aecf1740ea42d437ce1f4183b395b52d29918ef71",
+      "size": 24797184,
+      "ver": "2026.10-r1",
+      "from": "N",
+      "to": "P"
+    },
+    {
+      "id": "Q-S",
+      "file": "lexicon-Q-S.db",
+      "sha256": "921ce719e7e8173cfc6f67977b31aeeb10eb9631a9ebe9b5b7dba84c937c32aa",
+      "size": 28893184,
+      "ver": "2026.10-r1",
+      "from": "Q",
+      "to": "S"
+    },
+    {
+      "id": "T-Z",
+      "file": "lexicon-T-Z.db",
+      "sha256": "3fce2c269af7f98dab9ef7f30f614b93a5734bef7cc91b33072d4eed71cb0a87",
+      "size": 21872640,
+      "ver": "2026.10-r1",
+      "from": "T",
+      "to": "Z"
+    },
+    {
+      "id": "core",
+      "file": "lexicon-core.db",
+      "sha256": "ab3542397078a96c45b09124287b4fe1b054fb0825d726685d675150ecebb76e",
+      "size": 20537344,
+      "ver": "2026.10-r1",
+      "from": null,
+      "to": null
+    }
+  ]
+}
