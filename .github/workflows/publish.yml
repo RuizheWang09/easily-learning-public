@@ -20,7 +20,7 @@ on:
       - 'apps/web/public/app/**'
       - 'apps/web/public/index.html'
       - 'apps/web/public/health/**'
-        - 'apps/web/public/reading/audio/**'
+      - 'apps/web/public/reading/audio/**'
 permissions:
   contents: write
   pages: write
