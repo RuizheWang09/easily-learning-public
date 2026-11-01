@@ -4,35 +4,35 @@
     {
       "id": "cet4",
       "title": "四级词汇",
-      "version": "c66e27f111d243f7",
+      "version": "4ce1d09fa26502af",
       "count": 3849,
-      "url": "learning/books/cet4-c66e27f111d243f7.json",
-      "bytes": 1293664,
-      "sha256": "48086b8c6920f7df3cd135ba9dfed38bcc48b21e8d593602a758011d5f6a395c",
+      "url": "learning/books/cet4-4ce1d09fa26502af.json",
+      "bytes": 2244534,
+      "sha256": "f419dfb1706a410d820e0cc94d63db71e49d492b605e12f6f131a4dc7ad74866",
       "source": "https://github.com/skywind3000/ECDICT",
-      "license": "ECDICT MIT；词表按公开词典标签整理，不代表官方考试大纲全集"
+      "license": "ECDICT MIT；WordNet 3.0 License；Tatoeba CC BY 2.0 FR（保留句子sourceId，https://tatoeba.org/eng/downloads）；词表按公开词典标签整理，不代表官方考试大纲全集"
     },
     {
       "id": "cet6",
       "title": "六级词汇",
-      "version": "2aba77ba2805f20a",
+      "version": "340454c3f0003b4e",
       "count": 5407,
-      "url": "learning/books/cet6-2aba77ba2805f20a.json",
-      "bytes": 1749239,
-      "sha256": "1392521e370409def6282abed97a4a8a0cde770522e385094e50d53423f5eb3b",
+      "url": "learning/books/cet6-340454c3f0003b4e.json",
+      "bytes": 2912777,
+      "sha256": "5b4485c475ea1847c589156234c424024e39d7e4a55161ef7b64dfecce54952f",
       "source": "https://github.com/skywind3000/ECDICT",
-      "license": "ECDICT MIT；词表按公开词典标签整理，不代表官方考试大纲全集"
+      "license": "ECDICT MIT；WordNet 3.0 License；Tatoeba CC BY 2.0 FR（保留句子sourceId，https://tatoeba.org/eng/downloads）；词表按公开词典标签整理，不代表官方考试大纲全集"
     },
     {
       "id": "ielts",
       "title": "雅思词汇",
-      "version": "68f81565adb4397d",
+      "version": "a696c4dd0edcdd1e",
       "count": 5040,
-      "url": "learning/books/ielts-68f81565adb4397d.json",
-      "bytes": 1703098,
-      "sha256": "1695ad523e9d826753c297a85ca41beddb041bd9798e404a2bfe26bd4accd0b9",
+      "url": "learning/books/ielts-a696c4dd0edcdd1e.json",
+      "bytes": 2743669,
+      "sha256": "1aa2ec202876c8ae512d85c04500ec1e0ec4eb1bf398aa0ff1252295abb69a6f",
       "source": "https://github.com/skywind3000/ECDICT",
-      "license": "ECDICT MIT；词表按公开词典标签整理，不代表官方考试大纲全集"
+      "license": "ECDICT MIT；WordNet 3.0 License；Tatoeba CC BY 2.0 FR（保留句子sourceId，https://tatoeba.org/eng/downloads）；词表按公开词典标签整理，不代表官方考试大纲全集"
     }
   ]
 }

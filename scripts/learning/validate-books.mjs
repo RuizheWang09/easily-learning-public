@@ -34,6 +34,7 @@ export async function validateLearningDirectory(directory) {
             seen.add(word.headword);
             assert(Array.isArray(word.translations_zh) && word.translations_zh.length > 0 && word.translations_zh.every(s => typeof s === 'string' && s.trim() && !s.includes('\\n')));
             assert(Array.isArray(word.pos) && Array.isArray(word.definitions_en));
+            if (word.examples !== undefined) assert(Array.isArray(word.examples) && word.examples.length <= 2 && word.examples.every(e=>typeof e.en==='string' && e.en.trim() && (e.zh===undefined || typeof e.zh==='string') && (e.sourceId===undefined || typeof e.sourceId==='string')));
         }
         totalWords += count;
         totalBytes += bytes;
