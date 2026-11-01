@@ -6,9 +6,13 @@ import { pathToFileURL } from 'node:url';
 import { validateSpeechDirectory, speechManifests } from './speech/validate.mjs';
 import { dirname } from 'node:path';
 import { articleContentVersion } from './reading-artifacts.mjs';
+import {validateWordModelManifest} from './speech/word-model-contract.mjs';
 
 export async function validateGithubResources(siteDirectory) {
   const root = resolve(siteDirectory);
+  for(const path of ['speech/model.json','speech/models/kokoro-v2.json']){
+    try {validateWordModelManifest(JSON.parse(await readFile(join(root,path),'utf8')));}catch(error){if(error.code!=='ENOENT')throw error;}
+  }
   const json = async (path) => JSON.parse((await readFile(join(root, path), 'utf8')).replace(/^\uFEFF/, ''));
   const verify = async (path, bytes, sha256) => {
     const body = await readFile(join(root, path));
