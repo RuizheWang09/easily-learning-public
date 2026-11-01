@@ -37,5 +37,5 @@ export function parseNasaFeed(xml: string): ImportedArticle[] {
       level: 'B2', genre: 'science',
     });
   });
-  return articles.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)).slice(0, 12);
+  return articles.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)).slice(0, 36);
 }

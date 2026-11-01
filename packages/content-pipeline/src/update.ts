@@ -70,12 +70,14 @@ export async function updateCatalog(
     else warnings.push(`${feedSources[index]}: ${String(result.reason instanceof Error ? result.reason.message : result.reason)}`);
   });
   if (!feedXml.length && !options.extraArticles?.length) throw new Error(`没有合格文章，原有快照已保留: ${warnings.join('; ')}`);
+  const previous = await readCatalog(outputPath);
+  const knownIds = new Set(previous?.articles.map(article => article.id) ?? []);
   const candidates = [...new Map(feedXml.flatMap(parseFeed).map((item) => [item.url, item])).values()]
-    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+    .sort((a, b) => Number(knownIds.has(normalizeArticleUrl(a.url)!.id)) - Number(knownIds.has(normalizeArticleUrl(b.url)!.id)) || b.publishedAt.localeCompare(a.publishedAt));
   const accepted: ImportedArticle[] = [];
   let skipped = 0;
-  for (const item of candidates.slice(0, 48)) {
-    if (accepted.length >= 12) break;
+  for (const item of candidates.slice(0, 96)) {
+    if (accepted.length >= 24) break;
     try {
       const article = parseArticle(await fetcher(item.url), item);
       if (article) accepted.push(article);
@@ -87,7 +89,6 @@ export async function updateCatalog(
   accepted.push(...options.extraArticles ?? []);
   if (accepted.length === 0) throw new Error('没有合格文章，原有快照已保留');
 
-  const previous = await readCatalog(outputPath);
   const byId = new Map(previous?.articles.map((article) => [article.id, article]) ?? []);
   for (const article of accepted) {
     const previousArticle = byId.get(article.id);
@@ -97,8 +98,8 @@ export async function updateCatalog(
   const newest = (a: ImportedArticle, b: ImportedArticle) => b.publishedAt.localeCompare(a.publishedAt) || a.id.localeCompare(b.id);
   // 来源有独立配额，经典小说保留章节顺序，不被新新闻挤掉。
   const articles = [
-    ...merged.filter((a) => a.id.startsWith('voa-')).sort(newest).slice(0, 60),
-    ...merged.filter((a) => a.id.startsWith('nasa-')).sort(newest).slice(0, 60),
+    ...merged.filter((a) => a.id.startsWith('voa-')).sort(newest).slice(0, 180),
+    ...merged.filter((a) => a.id.startsWith('nasa-')).sort(newest).slice(0, 180),
     ...merged.filter((a) => a.genre === 'fiction').sort((a, b) => (a.bookTitle ?? '').localeCompare(b.bookTitle ?? '') || (a.chapter ?? 0) - (b.chapter ?? 0)).slice(0, 120),
   ];
   const checkedAt = new Date().toISOString().slice(0, 10);
