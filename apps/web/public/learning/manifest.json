@@ -1,0 +1,38 @@
+{
+  "schemaVer": 1,
+  "books": [
+    {
+      "id": "cet4",
+      "title": "四级词汇",
+      "version": "c66e27f111d243f7",
+      "count": 3849,
+      "url": "learning/books/cet4-c66e27f111d243f7.json",
+      "bytes": 1293664,
+      "sha256": "48086b8c6920f7df3cd135ba9dfed38bcc48b21e8d593602a758011d5f6a395c",
+      "source": "https://github.com/skywind3000/ECDICT",
+      "license": "ECDICT MIT；词表按公开词典标签整理，不代表官方考试大纲全集"
+    },
+    {
+      "id": "cet6",
+      "title": "六级词汇",
+      "version": "2aba77ba2805f20a",
+      "count": 5407,
+      "url": "learning/books/cet6-2aba77ba2805f20a.json",
+      "bytes": 1749239,
+      "sha256": "1392521e370409def6282abed97a4a8a0cde770522e385094e50d53423f5eb3b",
+      "source": "https://github.com/skywind3000/ECDICT",
+      "license": "ECDICT MIT；词表按公开词典标签整理，不代表官方考试大纲全集"
+    },
+    {
+      "id": "ielts",
+      "title": "雅思词汇",
+      "version": "68f81565adb4397d",
+      "count": 5040,
+      "url": "learning/books/ielts-68f81565adb4397d.json",
+      "bytes": 1703098,
+      "sha256": "1695ad523e9d826753c297a85ca41beddb041bd9798e404a2bfe26bd4accd0b9",
+      "source": "https://github.com/skywind3000/ECDICT",
+      "license": "ECDICT MIT；词表按公开词典标签整理，不代表官方考试大纲全集"
+    }
+  ]
+}

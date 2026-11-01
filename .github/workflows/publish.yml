@@ -22,6 +22,7 @@ on:
       - 'apps/web/public/health/**'
       - 'apps/web/public/reading/audio/**'
       - 'apps/web/public/speech/**'
+      - 'apps/web/public/learning/**'
 permissions:
   contents: write
   pages: write

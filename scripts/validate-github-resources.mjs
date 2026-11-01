@@ -7,9 +7,13 @@ import { validateSpeechDirectory, speechManifests } from './speech/validate.mjs'
 import { dirname } from 'node:path';
 import { articleContentVersion } from './reading-artifacts.mjs';
 import {validateWordModelManifest} from './speech/word-model-contract.mjs';
+import {validateLearningDirectory} from './learning/validate-books.mjs';
 
 export async function validateGithubResources(siteDirectory) {
   const root = resolve(siteDirectory);
+  let learningPresent=false;
+  try { await readFile(join(root,'learning/manifest.json')); learningPresent=true; } catch(error){if(error.code!=='ENOENT')throw error;}
+  if(learningPresent)await validateLearningDirectory(root);
   for(const path of ['speech/model.json','speech/models/kokoro-v2.json']){
     try {validateWordModelManifest(JSON.parse(await readFile(join(root,path),'utf8')));}catch(error){if(error.code!=='ENOENT')throw error;}
   }
