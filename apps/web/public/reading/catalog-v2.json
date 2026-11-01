@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-10-31T08:55:32.072Z",
-  "checkedAt": "2026-10-31",
+  "generatedAt": "2026-11-01T04:37:32.784Z",
+  "checkedAt": "2026-11-01",
   "warnings": [],
   "articles": [
     {
@@ -328,6 +328,167 @@
       "latestContentVersion": "e304427719bed11d5d0a07933a6d07626e61c94ebdd8d5ba3331d5b40bd7a2f0",
       "bytes": 4456,
       "sha256": "da7da548176bb8df37270419cb700faeee803691cdad0d9391ffb9bfe394902f"
+    },
+    {
+      "id": "voa-3988378",
+      "title": "Academic Writing: Common Sentence Patterns, Part One",
+      "description": "Today on Everyday Grammar, we explore two grammatical structures that you will see often in academic writing. These structures are used to evaluate ideas and evaluate actions. Although common in academic writing, you might not want to use these structures in other types of writing.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-01-23",
+      "sourceUrl": "https://learningenglish.voanews.com/a/everyday-grammar-common-patterns/3988378.html",
+      "credit": "John Russell wrote this story for Learning English. George Grow was the editor.",
+      "genre": "news",
+      "wordCount": 726,
+      "goals": [
+        "general",
+        "ielts",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 72,
+        "cet4": 69,
+        "cet6": 58
+      },
+      "paragraphCount": 41,
+      "latestContentVersion": "4ab57e499f19b5247598868e0b47724509710808bf298135822ac36aa2104316",
+      "bytes": 4807,
+      "sha256": "2d081d1aedbc2b2b7e501bf1137ab6d3ac660979aa039f0357054e8920761667"
+    },
+    {
+      "id": "voa-3459324",
+      "title": "Studying Sentence Patterns to Improve Your Writing, Part Two",
+      "description": "This week, we give you more information about a common sentence pattern in English: the linking verb pattern. Learning how to use linking verb patterns will help you improve your writing. You can think about creative ways to use them, or you can learn to recognize when you use them too often.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-01-16",
+      "sourceUrl": "https://learningenglish.voanews.com/a/studying-sentence-patterns-to-improve-writing-part-2/3459324.html",
+      "credit": "John Russell wrote this story for Learning English. Kelly J. Kelly was the editor.",
+      "genre": "news",
+      "wordCount": 931,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 81,
+        "cet4": 73,
+        "cet6": 62
+      },
+      "paragraphCount": 46,
+      "latestContentVersion": "15dc51022a1119152542dfb96d5b95a181f15ba0a702afce5f2c528f9c80fa86",
+      "bytes": 6015,
+      "sha256": "70f09e7126900d3a7f23faa8fe9d56d98d8110084f1224810dda78f2db6020d1"
+    },
+    {
+      "id": "voa-3427791",
+      "title": "Studying Sentence Patterns to Improve Your Writing, Part One",
+      "description": "The English language has many patterns. By learning and understanding common sentence patterns, English learners can improve their writing skills.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-01-09",
+      "sourceUrl": "https://learningenglish.voanews.com/a/studying-patterns-to-improve-your-writting-part-one/3427791.html",
+      "credit": "John Russell wrote this story for Learning English. Kelly Jean Kelly was the editor.",
+      "genre": "news",
+      "wordCount": 910,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 77,
+        "cet4": 66,
+        "cet6": 54
+      },
+      "paragraphCount": 60,
+      "latestContentVersion": "51c08c430056e81e2ee1e052a6ed49956cd90e91ce4f6c49157ab7b6aa8b9d8b",
+      "bytes": 5889,
+      "sha256": "2d43adab4d40ffd2fc28309a907daac325ea5bc81423431df8f54577f3af2f54"
+    },
+    {
+      "id": "voa-6904240",
+      "title": "Questions, Answers about Holiday Activities",
+      "description": "In today's report, we explore questions and answers about holiday activities.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2025-01-02",
+      "sourceUrl": "https://learningenglish.voanews.com/a/questions-answers-about-holiday-activities/6904240.html",
+      "credit": "John Russell wrote this lesson for VOA Learning English.",
+      "genre": "news",
+      "wordCount": 565,
+      "goals": [
+        "general",
+        "ielts",
+        "cet4",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 52,
+        "cet4": 48,
+        "cet6": 37
+      },
+      "paragraphCount": 42,
+      "latestContentVersion": "dccc8047e97818524ae6e2a1a645d81d4b7811f7eea17dad0e2c4655bbd7bafd",
+      "bytes": 3649,
+      "sha256": "34d891ce6056d24d577d8d4f2d06532ae8778ed79c7875545e7e7bd30aec70d9"
+    },
+    {
+      "id": "voa-5226829",
+      "title": "Grammar for Making New Year’s Resolutions",
+      "description": "Though we may celebrate the New Year holiday on different dates, people from many cultures make New Year’s resolutions. On today’s Everyday Grammar, we will show you how to talk about resolutions in English.",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2024-12-26",
+      "sourceUrl": "https://learningenglish.voanews.com/a/grammar-for-making-new-year-s-resolutions/5226829.html",
+      "credit": "Alice Bryant wrote this lesson for Learning English.",
+      "genre": "language",
+      "wordCount": 735,
+      "goals": [
+        "general",
+        "cet4"
+      ],
+      "examVocabulary": {
+        "ielts": 82,
+        "cet4": 61,
+        "cet6": 53
+      },
+      "paragraphCount": 43,
+      "latestContentVersion": "0f0a3e2721b179ccf953a5b728e2d019ca6a11cd6f443b6ee1ad648ab7417950",
+      "bytes": 4644,
+      "sha256": "a8cfad0b7d068983cc708cffbce3d766f6fb91a50981db387d3b41a80699ddf8"
+    },
+    {
+      "id": "voa-4172368",
+      "title": "Grammar and Christmas",
+      "description": "Christmas is full of pleasant surprises and surprising disappointments. Americans use certain words to show these emotions. Common examples include \"even,\" \"still,\" and \"actually.\"",
+      "source": "VOA Learning English",
+      "license": "VOA Learning English 公有领域文本",
+      "level": "B1",
+      "publishedAt": "2024-12-19",
+      "sourceUrl": "https://learningenglish.voanews.com/a/everyday-grammar-and-christmas/4172368.html",
+      "credit": "John Russell wrote this lesson for Learning English.",
+      "genre": "language",
+      "wordCount": 854,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 74,
+        "cet4": 53,
+        "cet6": 44
+      },
+      "paragraphCount": 52,
+      "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
+      "bytes": 5475,
+      "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
     },
     {
       "id": "nasa-41fa33a940a90fd4",
