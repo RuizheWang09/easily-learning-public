@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-02T11:04:14.278Z",
-  "checkedAt": "2026-11-02",
+  "generatedAt": "2026-11-03T10:59:36.364Z",
+  "checkedAt": "2026-11-03",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,87 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-79724c5608b9242f",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "description": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "publishedAt": "2026-11-02",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1080,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 122,
+        "cet4": 120,
+        "cet6": 117
+      },
+      "paragraphCount": 15,
+      "latestContentVersion": "e60843d3ac703c6dc81e87bbd1470c14cce3364655449df972404635e8f93d29",
+      "bytes": 7695,
+      "sha256": "c60ea685f03bb5abe4709d3be21b8982b7dd756b6d096f1320eaf7770db5b606"
+    },
+    {
+      "id": "nasa-9afd0129ac20e250",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "description": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spa",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "publishedAt": "2026-11-02",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 527,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 91,
+        "cet4": 88,
+        "cet6": 85
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "ed5cbd1ef2b3414143c717595590d5fad1dc74297e893c4ede45860d3a98b75c",
+      "bytes": 3913,
+      "sha256": "1b9d8f51f2752aa8cfd2a207f01f9c62efd1463af8eeb6f8847c04faa3842234"
+    },
+    {
+      "id": "nasa-e20622db362ba46d",
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "description": "An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated conta",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "publishedAt": "2026-11-02",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 400,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 71,
+        "cet4": 80,
+        "cet6": 82
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "f8d11165f0826bd02e33e9fd276f580ddf1f89ea59b1865bf1907aedefb89282",
+      "bytes": 3285,
+      "sha256": "3dad80dea6fdc9b3b373abf5e428487c7d7cd3089577ebf58428ae5727b7476d"
     },
     {
       "id": "nasa-41fa33a940a90fd4",
