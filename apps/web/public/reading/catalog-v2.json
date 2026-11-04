@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-03T10:59:36.364Z",
-  "checkedAt": "2026-11-03",
+  "generatedAt": "2026-11-04T11:05:29.648Z",
+  "checkedAt": "2026-11-04",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,33 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-61bb1ccb077a9360",
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "description": "Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking w",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "publishedAt": "2026-11-03",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 505,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 89,
+        "cet4": 96,
+        "cet6": 105
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "215606831d33a8a24dd621ceb6f23d4730df9710e03b7570e289e2ec87a420b0",
+      "bytes": 3963,
+      "sha256": "ca7b4eb24831787055ea854bb64bcefdd063150ba8e86bbb2631b08153c7c7e5"
     },
     {
       "id": "nasa-79724c5608b9242f",
