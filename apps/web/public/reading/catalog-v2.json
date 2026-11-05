@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-04T11:05:29.648Z",
-  "checkedAt": "2026-11-04",
+  "generatedAt": "2026-11-05T11:05:47.050Z",
+  "checkedAt": "2026-11-05",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,111 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-1522f10d7fdf55bd",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "description": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly ",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "publishedAt": "2026-11-05",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 367,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 59,
+        "cet4": 57,
+        "cet6": 54
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "90400ca96d5e02e738f87298132f51ae61c9c09567d5b157ea3bffbeff335c07",
+      "bytes": 2869,
+      "sha256": "f6415aeaa55da3ef4250a3befff24a500497fc52a94b46650d7404242c1ec506"
+    },
+    {
+      "id": "nasa-ab404887a11508dc",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "description": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service c",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "publishedAt": "2026-11-04",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 243,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 64,
+        "cet4": 59,
+        "cet6": 67
+      },
+      "paragraphCount": 7,
+      "latestContentVersion": "9d6bbed668f6f05846334916a8e0a6d4b861952dba503ca5d73784f23a0ee23a",
+      "bytes": 2091,
+      "sha256": "bd260cf2d08b16392a08f63f0d562aa5bc2da79368c04341d7224084ee893424"
+    },
+    {
+      "id": "nasa-ab7f6159295de7e7",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "description": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "publishedAt": "2026-11-04",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 413,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 74,
+        "cet4": 70,
+        "cet6": 71
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "2d5fee1a3c85160799b2a47936ccd019a6d62160afb73c1c2410cbad56e033d0",
+      "bytes": 3086,
+      "sha256": "95d3969ae5fc9e7e95d139c76a8355bf2352ecbb9def678980cb5648b56e2606"
+    },
+    {
+      "id": "nasa-b3955db4dcd93341",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "description": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "publishedAt": "2026-11-04",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 735,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 104,
+        "cet4": 100,
+        "cet6": 102
+      },
+      "paragraphCount": 13,
+      "latestContentVersion": "1b39b2e4985a778a57c538ecde1cb29f132ce49bf3a8ac2878bd8062c4b0ed05",
+      "bytes": 4977,
+      "sha256": "fcf765a4335f1c743fecd0740cce14a678d8baffdd2481a97e8e97e63277d5a5"
     },
     {
       "id": "nasa-61bb1ccb077a9360",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T11:05:29.648Z",
-  "checkedAt": "2026-11-04",
+  "generatedAt": "2026-11-05T11:05:47.050Z",
+  "checkedAt": "2026-11-05",
   "sources": [
     "https://learningenglish.voanews.com/api/zmg_pl-vomx-tpeymtm",
     "https://learningenglish.voanews.com/api/zbmroml-vomx-tpeqboo_",
@@ -1175,6 +1175,139 @@
         "ielts": 74,
         "cet4": 53,
         "cet6": 44
+      }
+    },
+    {
+      "id": "nasa-1522f10d7fdf55bd",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "description": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly ",
+      "paragraphs": [
+        "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
+        "The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.",
+        "“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”",
+        "The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach .75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.",
+        "“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”",
+        "The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.",
+        "With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation.",
+        "George Alderman / Cheryl WarnerHeadquarters, Washington 202-358-1600george.a.alderman@nasa.gov / cheryl.m.warner@nasa.gov"
+      ],
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "publishedAt": "2026-11-05",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 367,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 59,
+        "cet4": 57,
+        "cet6": 54
+      }
+    },
+    {
+      "id": "nasa-ab404887a11508dc",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "description": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service c",
+      "paragraphs": [
+        "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems.",
+        "Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration elements, as one of many customers in the commercial marketplace.",
+        "The awards, under the Next Space Technologies for Exploration Partnerships-3 Broad Agency Announcement Appendix E, are firm-fixed-price contracts that give NASA the option to provide additional funding up to the award limit to advance from initial concept development and risk reduction to an in-orbit flight demonstration. The initial period of performance runs from Nov. 4 through May 3, 2027, with additional priced options to continue work through 2029.",
+        "The contract awardees with maximum potential value inclusive of all future options are:",
+        "Facilitated through the agency’s SCaN (Space Communications and Navigation) program’s Communications Services Project, this work supports NASA’s decision to gradually retire the Tracking and Data Relay Satellite fleet and adopt commercial services for future missions. In addition to the commercial capabilities currently under development by the program’s industry partners, Ka-band services are needed to support select in-orbit missions that cannot feasibly modify flight hardware or transition to non-compatible commercial services.",
+        "To learn more about NASA’s Network Extension for User Continuity and Sustainability Ka-band service acquisition, visit:",
+        "Jennifer Dooren / Jessica TaveauHeadquarters, Washington202-358-1600jennifer.m.dooren@nasa.gov / jessica.c.taveau@nasa.gov"
+      ],
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "publishedAt": "2026-11-04",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 243,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 64,
+        "cet4": 59,
+        "cet6": 67
+      }
+    },
+    {
+      "id": "nasa-ab7f6159295de7e7",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "description": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets.",
+      "paragraphs": [
+        "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets.",
+        "An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place at Rogers Dry Lake near NASA’s Armstrong Flight Research Center in Edwards, California.",
+        "During the tests, the SPLICE payload used an advanced guidance system to map the terrain and assess potential landing areas. If the system determines the targeted landing area is unsafe, the system diverts the drone to a safer location. The system generates high-resolution digital elevation maps from light-detection and sensor data.",
+        "Researchers at NASA’s Johnson Space Center in Houston developed the SPLICE payload and partnered with specialists at NASA Armstrong to integrate, test, and fly it aboard the Alta-X drone in June and July. Those tests verified communications, data handling, telemetry, and command- control performance between the SPLICE payload and the drone to prepare for a full-scale test at Voyager Technologies in Mojave, California, later this month.",
+        "“This flight test is the culmination of almost a decade of work, for the SPLICE project,” said Davis Adams, NASA project manager. “This flight raised the technology readiness level, priming it for integration into future robotic and crewed lunar flights. Validation of the guidance and navigation systems are applicable to terrestrial, lunar, and Martian descent and landing missions.”",
+        "NASA has worked with a number of commercial lunar lander providers to implement iterations of SPLICE into their platforms. A number of the landers slated for upcoming Moon Base missions leverage data collected by NASA through the development of systems like SPLICE to execute soft touchdowns on the lunar surface.",
+        "“We are coordinating with industry regarding the usage of the guidance system once the system is available in the NASA software catalog, currently planned for this fall,” Adams said. “Some of the companies also are evaluating the system’s navigation capabilities for precision landing applications, as well as potential extensions for autonomous surface mobility.”",
+        "NASA’s Flight Opportunities project, based at NASA Armstrong, enabled flight testing of the SPLICE project early in its development that laid a foundation for it to continue advancing its technology readiness level to what it is today. Flight testing included both a descent altitude and a landing trajectory in 2019 similar to what is expected on a lunar mission and the demonstration of two NASA-developed precision landing sensor systems in 2020."
+      ],
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "publishedAt": "2026-11-04",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 413,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 74,
+        "cet4": 70,
+        "cet6": 71
+      }
+    },
+    {
+      "id": "nasa-b3955db4dcd93341",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "description": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+      "paragraphs": [
+        "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+        "Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon landing mission in 2028. Building on the priorities announced at Ignition earlier this year, NASA leadership shared the agency’s significant progress across its missions, working with industry partners to test critical capabilities, reduce risk, and build toward a sustained American presence on the Moon.",
+        "“This is a very energized NASA, and these updates are only a small part of that story. We are bringing extreme focus to the mission to ensure delivery of world-changing outcomes as quickly, safely, affordably, and successfully as possible,” said Isaacman. “NASA is driving outcomes to make Moon missions a reality, and we’re not waiting for others to bring their plans to us — the campaign must move with urgency as strategic competitors pursue a permanent presence beyond Earth.”",
+        "The agency shared details of the Artemis III mission, which will test rendezvous, docking, and operations between NASA’s Orion spacecraft and lunar lander test vehicles from SpaceX and Blue Origin in Earth orbit. Four astronauts will fly aboard Orion, launched on NASA’s SLS (Space Launch System) rocket, for a planned 14-day mission in Earth orbit to reduce risk ahead of the Artemis IV moon landing mission.",
+        "The Artemis III mission will unfold in sequence: Blue Origin will launch a Blue Moon lander test article into Earth orbit, SLS will launch Orion and its crew, docking with the Blue Moon lander test article, then SpaceX will launch a Version 3 Starship lander test article while Orion will undock from Blue Moon and dock with Starship.",
+        "The Oct. 23 updates follow other recent updates about the Artemis missions. Hardware for Artemis III is on track, with processing timelines sharply reduced by about half. NASA also redesigned, built, and tested a critical fuel-line component in-house in five months, at roughly a tenth of the cost of an earlier outside-vendor estimate.",
+        "“NASA should be expected to do this kind of work, and we have some of the best technical knowledge in the world on rocket hardware and operations to do it,” said Jeremy Parsons, the agency’s Artemis program manager. “It’s an example of how we are rebuilding our core competencies and developing centers of excellence in technical functions instead of continuing to outsource expertise.”",
+        "For the agency’s Artemis IV mission in 2028, astronauts will launch aboard Orion on the SLS rocket from NASA’s Kennedy Space Center in Florida. NASA is working with SpaceX and Blue Origin to develop lunar landers to carry those astronauts to the Moon’s surface. Both companies have redesigned their approaches to simplify the missions and make them more efficient and flexible as compared to previous mission designs.",
+        "SpaceX’s Starship will refuel in Earth orbit, rendezvous with Orion, and then carry the spacecraft toward the Moon. Blue Origin’s approach involves transfer stages in Earth orbit to push its Blue Moon Mark 2 lander toward the Moon, where it will meet Orion in a closer lunar orbit before descending to the surface.",
+        "Both SpaceX and Blue Origin are targeting to be able to support a crewed lunar landing in 2028.",
+        "For Artemis IV, NASA is pursuing two upper-stage options for the SLS rocket: its current stage, the interim cryogenic propulsion stage; and a stretched version of ULA’s Centaur V which can carry more propellant. Pursuing both options ensures NASA is maintaining flexibility and preventing single-point dependency.",
+        "NASA also announced plans with spacesuit provider Axiom Space to develop a second, lighter suit design called the “Sortie suit” to enable the first moonwalks. The Sortie suit will not replace Axiom’s primary suit, which will be used for longer, more demanding missions in the future. The Sortie suit is roughly half the weight of the larger suit and lets NASA move faster on the earliest surface missions.",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions at the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars.Learn more about Artemis:"
+      ],
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "publishedAt": "2026-11-04",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 735,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 104,
+        "cet4": 100,
+        "cet6": 102
       }
     },
     {
