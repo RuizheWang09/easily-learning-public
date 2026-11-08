@@ -1,10 +1,8 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-07T10:23:16.290Z",
-  "checkedAt": "2026-11-07",
-  "warnings": [
-    "NASA: Error: NASA 没有合格英文正文"
-  ],
+  "generatedAt": "2026-11-08T10:30:46.254Z",
+  "checkedAt": "2026-11-08",
+  "warnings": [],
   "articles": [
     {
       "id": "voa-5345471",
@@ -491,6 +489,60 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-44a6b3793253ee6a",
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "description": "NASA is looking for the explorers who will help write the next chapter of human spaceflight.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "publishedAt": "2026-11-07",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 651,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 109,
+        "cet4": 96,
+        "cet6": 89
+      },
+      "paragraphCount": 20,
+      "latestContentVersion": "f4bb26bdc75b773e94b84aa4adf051b6804cc3a635f855410f4543e4d5fcd079",
+      "bytes": 4671,
+      "sha256": "72d760d5361afa66601713849c5814c6d01e8e5490e8a8dbc313bd96173189a3"
+    },
+    {
+      "id": "nasa-7723ccbf8c3a4f1a",
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "description": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advanc",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "publishedAt": "2026-11-07",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1480,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 214,
+        "cet4": 205,
+        "cet6": 209
+      },
+      "paragraphCount": 27,
+      "latestContentVersion": "f06b13343b6d8549bcf68e0b9d2d584683a969bf5f2c99dcda851fc1c4515129",
+      "bytes": 10615,
+      "sha256": "6320a08ce522e12d354924794c5f1cdbedaf2fe5645a78619e086dab784cc255"
     },
     {
       "id": "nasa-1522f10d7fdf55bd",
