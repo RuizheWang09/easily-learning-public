@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-08T10:30:46.254Z",
-  "checkedAt": "2026-11-08",
+  "generatedAt": "2026-11-09T11:44:12.847Z",
+  "checkedAt": "2026-11-09",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,60 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-ffc125749edfcb42",
+      "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+      "description": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat ",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+      "publishedAt": "2026-11-09",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1003,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 187,
+        "cet4": 167,
+        "cet6": 163
+      },
+      "paragraphCount": 32,
+      "latestContentVersion": "6c65dd61711c6cd3b5596f70ef7c7011d9bb41b63289e4a9a52f6128cae1c3ed",
+      "bytes": 7094,
+      "sha256": "63b87deed4430001398aaf4011a5e0ab395ab63729f3a4266346434ebf770970"
+    },
+    {
+      "id": "nasa-e12ad5f5bdc739ac",
+      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+      "description": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+      "publishedAt": "2026-11-08",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 516,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 101,
+        "cet4": 90,
+        "cet6": 92
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "d9bf77c250a59b53f8d76b51112954fb862978899a6fee0935806a4a9d16555b",
+      "bytes": 3831,
+      "sha256": "76af7ee2dec5609ed56d4dfb4f01e856f82c37787d0a60214cfe4040059da3e0"
     },
     {
       "id": "nasa-44a6b3793253ee6a",
