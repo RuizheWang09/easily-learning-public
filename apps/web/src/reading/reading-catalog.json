@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T11:44:12.847Z",
-  "checkedAt": "2026-11-09",
+  "generatedAt": "2026-11-10T11:21:56.604Z",
+  "checkedAt": "2026-11-10",
   "sources": [
     "https://learningenglish.voanews.com/api/zmg_pl-vomx-tpeymtm",
     "https://learningenglish.voanews.com/api/zbmroml-vomx-tpeqboo_",
@@ -4398,5 +4398,7 @@
       }
     }
   ],
-  "warnings": []
+  "warnings": [
+    "NASA: Error: NASA 没有合格英文正文"
+  ]
 }

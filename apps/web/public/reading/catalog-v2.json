@@ -1,8 +1,10 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-09T11:44:12.847Z",
-  "checkedAt": "2026-11-09",
-  "warnings": [],
+  "generatedAt": "2026-11-10T11:21:56.604Z",
+  "checkedAt": "2026-11-10",
+  "warnings": [
+    "NASA: Error: NASA 没有合格英文正文"
+  ],
   "articles": [
     {
       "id": "voa-5345471",
