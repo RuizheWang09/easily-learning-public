@@ -1,10 +1,8 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-10T11:21:56.604Z",
-  "checkedAt": "2026-11-10",
-  "warnings": [
-    "NASA: Error: NASA 没有合格英文正文"
-  ],
+  "generatedAt": "2026-11-11T11:08:20.750Z",
+  "checkedAt": "2026-11-11",
+  "warnings": [],
   "articles": [
     {
       "id": "voa-5345471",
@@ -491,6 +489,60 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-7b10e9232fe65cdc",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "description": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilomete",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "publishedAt": "2026-11-10",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 445,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 74,
+        "cet4": 84,
+        "cet6": 82
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "b8f4d80cdfbc1c78471328bd322f362262d2aa32ac49e4e0cb2acaa87849851e",
+      "bytes": 3251,
+      "sha256": "a4b5a410ee226b9c25cd7374176843a75ee14471b07972c70fca63130673387b"
+    },
+    {
+      "id": "nasa-b5609a4ae8c29f7f",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "description": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Stati",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "publishedAt": "2026-11-10",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 564,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 97,
+        "cet4": 84,
+        "cet6": 83
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "aa504008aa8c645ed4c69ae351df2e7b99af82255d3b948ba392b082380aee2b",
+      "bytes": 4265,
+      "sha256": "d95a3642d52852cc46eee877f79f1c46953c53e92a2bf7cb032eb6e9a33ebb19"
     },
     {
       "id": "nasa-ffc125749edfcb42",
