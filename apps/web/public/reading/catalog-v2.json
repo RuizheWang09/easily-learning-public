@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-12T11:26:28.441Z",
-  "checkedAt": "2026-11-12",
+  "generatedAt": "2026-11-13T11:10:23.175Z",
+  "checkedAt": "2026-11-13",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,60 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-2b062e211d835d10",
+      "title": "I Am Artemis Katie Spicer",
+      "description": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lan",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "publishedAt": "2026-11-12",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 679,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 117,
+        "cet4": 103,
+        "cet6": 103
+      },
+      "paragraphCount": 15,
+      "latestContentVersion": "bcdd5c1c12e1428f5b2f8ac4e287b63a8793d107f94847f37adc2ca0b4d0a756",
+      "bytes": 4557,
+      "sha256": "d08aefc4e882a8148913136eba076e9ad9aa40ed211b753b82258d735d260648"
+    },
+    {
+      "id": "nasa-814222d0921ad1f6",
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "description": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around ",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+      "publishedAt": "2026-11-12",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 566,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 99,
+        "cet4": 81,
+        "cet6": 73
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "35367eb57e8b09032a4e69d9d1a798799da2e5647d733c05c722f0ace2aa067e",
+      "bytes": 3879,
+      "sha256": "01a87f44c0eeb7e35e6deda3b76cc534be83b1ccf7d35800330ccdd56865c41f"
     },
     {
       "id": "nasa-7b10e9232fe65cdc",
