@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-16T11:35:57.870Z",
-  "checkedAt": "2026-11-16",
+  "generatedAt": "2026-11-17T12:00:58.345Z",
+  "checkedAt": "2026-11-17",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,59 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-9cb60120da34165e",
+      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+      "description": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+      "publishedAt": "2026-11-16",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 391,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 94,
+        "cet4": 79,
+        "cet6": 82
+      },
+      "paragraphCount": 8,
+      "latestContentVersion": "bf4a4d77e0acb0e639a3642eabee035d0e81ea51ad1726cf982f0bf47763783b",
+      "bytes": 3046,
+      "sha256": "e39ed73e250fda9ca83181a0a864fb48e94f4820c63cb348f81956cd03670638"
+    },
+    {
+      "id": "nasa-b7edde03a56702f6",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "description": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+      "publishedAt": "2026-11-16",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 528,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 93,
+        "cet4": 102,
+        "cet6": 99
+      },
+      "paragraphCount": 14,
+      "latestContentVersion": "0597e5566561ea139b7c57f95e9d92f1beebbdebe0d474c96468f2c5a40053fb",
+      "bytes": 3620,
+      "sha256": "42c6be07228058ba4f5a0b421f5186d9431d79665847da1f9c6a778d80ff362b"
     },
     {
       "id": "nasa-2b062e211d835d10",

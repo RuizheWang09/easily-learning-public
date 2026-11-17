@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T11:35:57.870Z",
-  "checkedAt": "2026-11-16",
+  "generatedAt": "2026-11-17T12:00:58.345Z",
+  "checkedAt": "2026-11-17",
   "sources": [
     "https://learningenglish.voanews.com/api/zmg_pl-vomx-tpeymtm",
     "https://learningenglish.voanews.com/api/zbmroml-vomx-tpeqboo_",
@@ -1175,6 +1175,77 @@
         "ielts": 74,
         "cet4": 53,
         "cet6": 44
+      }
+    },
+    {
+      "id": "nasa-9cb60120da34165e",
+      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+      "description": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements.",
+      "paragraphs": [
+        "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements.",
+        "The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position.",
+        "“Our responsibility at NASA is to be disciplined stewards of the resources entrusted to us by the American people while delivering on the missions they expect from this agency,” said NASA Administrator Jared Isaacman. “Our 16th consecutive clean audit reflects a long record of financial accountability, and we intend to pair that discipline with the urgency and execution required to take on the near-impossible missions ahead.”",
+        "The 2026 Agency Financial Report provides key financial and performance information and demonstrates the agency’s commitment to transparency in the use of American taxpayers’ dollars. In addition, the 2026 report presents progress during the past year, and spotlights advancements in NASA missions, objectives, and workforce development with these financial resources.",
+        "In fiscal year 2026 (FY 2026), NASA’s 10-day Artemis II mission successfully accomplished a test flight around the Moon with four crew members, delivering major human spaceflight milestones, such as the record‑breaking distance astronauts have traveled from Earth and global public engagement. NASA also announced a series of transformative agencywide initiatives designed to advance American leadership in space, including plans to build a Moon Base, which will be humanity’s first lunar outpost, and a place where astronauts will live, work, and explore near the Moon’s South Pole.",
+        "NASA’s science advancements in FY 2026 included launching the agency’s Nancy Grace Roman Space Telescope, ahead of schedule, to study dark matter, dark energy, planets outside our solar system, as well as exploration of everything from nearby stars to distant galaxies. NASA’s experimental X-59 quiet supersonic aircraft achieved a major milestone when it flew faster than the speed of sound for the first time.",
+        "The agency also: launched NASA Force with the U.S. Office of Personnel Management, a talent track designed to recruit and deploy the nation’s top engineers and technologists to support America’s space program; announced an agencywide realignment to increase mission focus; and welcomed additional Artemis Accords signatories committing to the safe, transparent, and responsible exploration of the Moon, Mars, and beyond.",
+        "George Alderman / Jennifer DoorenHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov / jennifer.m.dooren@nasa.gov"
+      ],
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+      "publishedAt": "2026-11-16",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 391,
+      "goals": [
+        "general",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 94,
+        "cet4": 79,
+        "cet6": 82
+      }
+    },
+    {
+      "id": "nasa-b7edde03a56702f6",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "description": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life.",
+      "paragraphs": [
+        "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life.",
+        "Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making.",
+        "Hired under the agency’s workforce directive to restore core competencies by converting contractors to civil service, Mirandy is now a quality assurance specialist after 30 years of working as a contractor supporting NASA.",
+        "“Discovery is an important job, and it is exciting to be a part of that process,” said Mirandy. “As a nation, we lead the world in space exploration, and we make that dream of reaching for the stars a reality.”",
+        "His work at the nation’s largest rocket propulsion test site directly supports the agency’s mission to return American astronauts to the Moon through the Artemis program and ensure American leadership in space.",
+        "By retaining Mirandy’s facility-specific expertise as a civil servant, NASA ensures that the critical propulsion testing at NASA Stennis continues to be executed with safety and quality in mind. Mirandy describes his team as an integral part of the process that provides a second set of eyes with a focus on potential hazards.",
+        "As a quality assurance specialist, he serves as the agency’s close call investigator at the center, helps lead the Voluntary Protection Program, and participates in the Striving to Achieve Real Safety committee, an employee safety committee that works to keep the site safe.",
+        "Mirandy also has a long resume of critical institutional contributions, including creating high pressure and cryogenic training classes that he taught for 10 years, and helping establish safety protocols throughout various locations at the center.",
+        "Mirandy’s connection to America’s space agency began in childhood living in Titusville, Florida. His father, Wes Mirandy, worked for Rocketdyne at NASA’s Kennedy Space Center in Florida, and Mirandy’s nearby elementary school regularly gathered to watch launches. Later, his father worked as the A-1 test stand manager for space shuttle main engine testing at NASA Stennis.",
+        "“My father was by far my greatest mentor,” said Mirandy. “My dad always included us whenever he worked on something around the house, so we picked up a knack for examining problems and fixing things. When I arrived at Stennis Space Center, many of his friends and coworkers took the time to help me succeed at my job. They took the time to explain the test stands and other systems and how they worked.”",
+        "A knack for fixing things helped launch Mirandy’s career at Michoud Assembly Facility in New Orleans. He started working hands-on as a mechanic on the Space Shuttle External Tank. When an unexpected incident occurred in a production cell, Mirandy stepped up to help the operations and safety team resolve the issue.",
+        "This moment shifted his career trajectory into safety and quality. Mirandy found his way to NASA Stennis and brought an understanding of systems and operations with him.",
+        "A resident of Bay St. Louis and a graduate of the University of Southern Mississippi, Mirandy is motivated by helping people, keeping them safe, and improving processes.",
+        "“Your reward for working safely today is tomorrow,” said Mirandy."
+      ],
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+      "publishedAt": "2026-11-16",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 528,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 93,
+        "cet4": 102,
+        "cet6": 99
       }
     },
     {
