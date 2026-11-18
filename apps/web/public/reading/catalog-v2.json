@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-17T12:00:58.345Z",
-  "checkedAt": "2026-11-17",
+  "generatedAt": "2026-11-18T11:53:40.816Z",
+  "checkedAt": "2026-11-18",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,60 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-ab512ff5041d7997",
+      "title": "NICER Status Updates",
+      "description": "NASA’s NICER Telescope Ends Science Operations",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "publishedAt": "2026-11-17",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1464,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 170,
+        "cet4": 162,
+        "cet6": 164
+      },
+      "paragraphCount": 40,
+      "latestContentVersion": "4277cbc4b06cd7bf32ba9e5621b6b705d91cfd398522cd63c944d92957db81c3",
+      "bytes": 10474,
+      "sha256": "118c63487ebcb82d4b81eb041c9087f9838e5c8532bb4b74c5a7a9ec92ac4616"
+    },
+    {
+      "id": "nasa-f7f34b27e3ae136b",
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "description": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier tha",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+      "publishedAt": "2026-11-17",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 447,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 77,
+        "cet4": 79,
+        "cet6": 75
+      },
+      "paragraphCount": 10,
+      "latestContentVersion": "dfd7e32d006a641065d52536ad9600e3dca92280d2f45aea875144c752a05da9",
+      "bytes": 3361,
+      "sha256": "2c892639d1032b9832d023cf3a407e28f9f579d69da051e5b2e40a559093b2e4"
     },
     {
       "id": "nasa-9cb60120da34165e",
