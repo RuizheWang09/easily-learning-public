@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-18T11:53:40.816Z",
-  "checkedAt": "2026-11-18",
+  "generatedAt": "2026-11-19T11:49:53.823Z",
+  "checkedAt": "2026-11-19",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,60 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-162c5c6a72fe29aa",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "description": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to ",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+      "publishedAt": "2026-11-18",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 546,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 86,
+        "cet4": 81,
+        "cet6": 77
+      },
+      "paragraphCount": 19,
+      "latestContentVersion": "a9885e08de7a5f046e36105c8ccb51ccd005f38d4c635f4c11c507544e9f3116",
+      "bytes": 4084,
+      "sha256": "ca287ba1e07ffad8705c8c6d2c7293585120adebc493fa438b8d83f16178938e"
+    },
+    {
+      "id": "nasa-9d57f4dbe2e38905",
+      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+      "description": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holid",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
+      "publishedAt": "2026-11-18",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 933,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 142,
+        "cet4": 111,
+        "cet6": 93
+      },
+      "paragraphCount": 17,
+      "latestContentVersion": "d5b0672efa7600b6a959edc059db60ea1f2f925360a553c2707e18f5ad34ee6f",
+      "bytes": 5713,
+      "sha256": "8446c9f160ce5fab1c5cfe6325e4f3fc3d60a6671da345854fd43cffcc547f88"
     },
     {
       "id": "nasa-ab512ff5041d7997",
