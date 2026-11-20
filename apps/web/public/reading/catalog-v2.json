@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-19T11:49:53.823Z",
-  "checkedAt": "2026-11-19",
+  "generatedAt": "2026-11-20T11:50:49.414Z",
+  "checkedAt": "2026-11-20",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,33 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-b71681db2cca441f",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "description": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light ",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "publishedAt": "2026-11-19",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 953,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 143,
+        "cet4": 145,
+        "cet6": 147
+      },
+      "paragraphCount": 17,
+      "latestContentVersion": "3491704db93e99c68c2703bd222fa83546d304833ba6994ff95de7d871e1de90",
+      "bytes": 6687,
+      "sha256": "289e36f8020afe12c41d0884fa37fcd470c08fddb59ea8a13e726c98ddfabc87"
     },
     {
       "id": "nasa-162c5c6a72fe29aa",
