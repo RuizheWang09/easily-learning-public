@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-20T11:50:49.414Z",
-  "checkedAt": "2026-11-20",
+  "generatedAt": "2026-11-21T11:17:24.345Z",
+  "checkedAt": "2026-11-21",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,33 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-668a9e048b9e7213",
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "description": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+      "publishedAt": "2026-11-20",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 555,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 77,
+        "cet4": 69,
+        "cet6": 73
+      },
+      "paragraphCount": 13,
+      "latestContentVersion": "6071686dd2c83e754a1774e851d73c9112f533b617c045a5669611c6aeb12984",
+      "bytes": 4455,
+      "sha256": "8fe1a1c6ef85ba0577b44a202100adbbf1a114b81fffee13d2e46181322d0392"
     },
     {
       "id": "nasa-b71681db2cca441f",
