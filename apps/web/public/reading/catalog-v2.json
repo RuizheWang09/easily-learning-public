@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-22T11:37:07.186Z",
-  "checkedAt": "2026-11-22",
+  "generatedAt": "2026-11-23T13:02:33.239Z",
+  "checkedAt": "2026-11-23",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,33 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-c7c3f2d60795dbca",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "description": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apo",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "publishedAt": "2026-11-22",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 1252,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 172,
+        "cet4": 157,
+        "cet6": 163
+      },
+      "paragraphCount": 16,
+      "latestContentVersion": "6d5bc7325972b1ae8b0750bf7d8e44bfcd37aad64f67479b03add35ea6a76a47",
+      "bytes": 8942,
+      "sha256": "b62602d402cb75b29ce038332093f14bb87db97850959913289c609b6747835a"
     },
     {
       "id": "nasa-668a9e048b9e7213",
