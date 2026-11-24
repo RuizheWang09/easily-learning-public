@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T13:02:33.239Z",
-  "checkedAt": "2026-11-23",
+  "generatedAt": "2026-11-24T13:53:17.418Z",
+  "checkedAt": "2026-11-24",
   "sources": [
     "https://learningenglish.voanews.com/api/zmg_pl-vomx-tpeymtm",
     "https://learningenglish.voanews.com/api/zbmroml-vomx-tpeqboo_",
@@ -1175,6 +1175,73 @@
         "ielts": 74,
         "cet4": 53,
         "cet6": 44
+      }
+    },
+    {
+      "id": "nasa-375278fb60b05852",
+      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+      "description": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Ap",
+      "paragraphs": [
+        "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites.",
+        "The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from Nov. 23 through April 1, 2042. The work will take place at the awardee’s facility.",
+        "Under the contract, Northrop Grumman will provide the design, development, production, testing, and mission support for three SMBA instruments, the next generation of low Earth orbit microwave sounders. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, is managing the acquisition, and NOAA will own and operate the instruments and deliver the data to users worldwide. Microwave sounders provide critical measurements of temperature and moisture in the atmosphere, which significantly influence weather patterns. The SMBA instruments could improve the medium-range forecasts for NOAA’s National Weather Service.",
+        "The NEON mission is a collaboration between NASA and NOAA. The mission is led by NOAA, which provides funding, technical requirements, and postlaunch operations. NASA will manage the development of the NEON satellites and launch them for NOAA. NASA and NOAA will work with commercial partners to design and build the NEON spacecraft and instruments.",
+        "For information about NASA and agency programs, visit:",
+        "Liz VlockHeadquarters, Washington202-358-1600elizabeth.a.vlock@nasa.gov",
+        "Peter JacobsGoddard Space Flight Center, Greenbelt, Md.301-286-3308peter.jacobs@nasa.gov"
+      ],
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+      "publishedAt": "2026-11-23",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 233,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 50,
+        "cet4": 49,
+        "cet6": 48
+      }
+    },
+    {
+      "id": "nasa-d106cf16aff669eb",
+      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "description": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of",
+      "paragraphs": [
+        "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.”",
+        "The documentary will air on NASA+, the NASA app, and the agency’s website starting Monday, Nov. 23, and is coming soon to YouTube.",
+        "It took decades of science, thousands of dedicated minds, endless creativity, and a whole lot of grit to get the Europa Clipper spacecraft to the launch pad in 2024. Now the orbiter, the largest NASA has ever sent into deep space, is two years into its five-year, 1.8 billion-mile (2.9 billion-kilometer) journey to the Jupiter system, where it will conduct flybys of Europa in search of the conditions for life in the vast ocean thought to hide beneath the moon’s icy surface.",
+        "“The things we will learn from Europa Clipper will be so sensational, so fantastic, that everyone will be screaming for the next mission,” said Curt Niebur, program scientist in the Planetary Science Division at NASA Headquarters in Washington. “The only thing that matters is that we learn enough that we, in the broadest sense, want to do it again somewhere else — because that’s what exploration is.”",
+        "Following a team of dedicated engineers and scientists on their yearslong efforts, the documentary captures how they developed a mission to Europa and built a spacecraft capable of surviving one of the most punishing radiation environments in our solar system. A product of Jupiter’s powerful magnetic field, that same radiation may have contributed to creating a potentially habitable environment on Europa.",
+        "The moon, an object of fascination since its discovery by Galileo Galilei in 1610, only began to reveal its secrets with data obtained by NASA’s Pioneer 10 in 1973, followed the next year by Pioneer 11. But humanity didn’t get its first detailed look at Europa until Voyager 1’s flyby in 1979. More detailed glimpses of the moon followed from the agency’s Voyager 2, Galileo, Cassini, and Juno missions, each helping illuminate the way for Europa Clipper.",
+        "Work officially began on the mission at NASA’s Jet Propulsion Laboratory in Southern California in 2013, initiating an 11-year trek to build the spacecraft and its suite of nine science instruments in time to launch during a specific period of planetary alignment. Along the way, the team encountered plenty of unforeseen challenges, including a global pandemic and, just before launch on Oct. 14, 2024, a Category 5 hurricane and tornadoes near NASA’s Kennedy Space Center in Florida.",
+        "“With Europa Clipper, we’ve taken the next step in solar system exploration, which will help us uncover the mysteries of an ocean world, and ultimately, whether potentially habitable worlds beyond our own exist,” said Jordan Evans, director of flight projects at JPL and the mission’s previous project manager. “This documentary pays tribute to the ingenuity, teamwork, and dedication that continue to make this incredible mission possible.”",
+        "“The Europa Concept” takes audiences through the highs and lows alongside the thousands more who made Europa Clipper’s journey to the launch pad a success — and who will, in the coming years, be there to share the mission’s findings about humanity’s place in the cosmos.",
+        "Managed by Caltech in Pasadena, California, JPL leads the development of the Europa Clipper mission in partnership with the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, for NASA. The main spacecraft body was designed by APL in collaboration with JPL and NASA’s Goddard Space Flight Center in Greenbelt, Maryland, NASA’s Marshall Space Flight Center in Huntsville, Alabama, and NASA’s Langley Research Center in Hampton, Virginia. The Planetary Missions Program Office at NASA Marshall executes program management of the Europa Clipper mission. NASA’s Launch Services Program, based at Kennedy, managed the launch service for the Europa Clipper spacecraft.",
+        "Find more information about Europa Clipper here:",
+        "Media ContactMatthew SegalJet Propulsion Laboratory, Pasadena, Calif.818-354-8307matthew.j.segal@jpl.nasa.gov"
+      ],
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "publishedAt": "2026-11-23",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 639,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 90,
+        "cet4": 85,
+        "cet6": 96
       }
     },
     {

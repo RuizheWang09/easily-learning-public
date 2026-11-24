@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-23T13:02:33.239Z",
-  "checkedAt": "2026-11-23",
+  "generatedAt": "2026-11-24T13:53:17.418Z",
+  "checkedAt": "2026-11-24",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,58 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-375278fb60b05852",
+      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+      "description": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Ap",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+      "publishedAt": "2026-11-23",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 233,
+      "goals": [
+        "general"
+      ],
+      "examVocabulary": {
+        "ielts": 50,
+        "cet4": 49,
+        "cet6": 48
+      },
+      "paragraphCount": 7,
+      "latestContentVersion": "acc40ef52fb010b3c74072de9f78eef95b842fc26231ec3b698c0d06a02a630e",
+      "bytes": 1979,
+      "sha256": "e7e146666424b7032133789a5e40c56123d34bb8b99558a0c7568e8c7014c53a"
+    },
+    {
+      "id": "nasa-d106cf16aff669eb",
+      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "description": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "publishedAt": "2026-11-23",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 639,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 90,
+        "cet4": 85,
+        "cet6": 96
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "f8b82bc5f8219cc760a8dc3de0601c2d50aef6146b6d11630f7bd1c5168602d7",
+      "bytes": 4519,
+      "sha256": "afbde62c35fcd142ae656482d7749123a27d7a00d79b6bb2bb0f0a31d316b561"
     },
     {
       "id": "nasa-c7c3f2d60795dbca",
