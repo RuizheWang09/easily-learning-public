@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-24T13:53:17.418Z",
-  "checkedAt": "2026-11-24",
+  "generatedAt": "2026-11-25T13:06:52.337Z",
+  "checkedAt": "2026-11-25",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,33 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-5257e4b96b7100c0",
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "description": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Sta",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+      "publishedAt": "2026-11-24",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 540,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 102,
+        "cet4": 120,
+        "cet6": 118
+      },
+      "paragraphCount": 12,
+      "latestContentVersion": "f297c7f535c6dcf14072a80053f7d1f947bcd92affd854a538dc9e1ff212f8ff",
+      "bytes": 4100,
+      "sha256": "c038de8ae93234dc1121950546ddda605728639f36df967d80f8b8b2a7da701f"
     },
     {
       "id": "nasa-375278fb60b05852",
