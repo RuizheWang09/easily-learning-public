@@ -1,7 +1,7 @@
 {
   "schemaVer": 2,
-  "generatedAt": "2026-11-25T13:06:52.337Z",
-  "checkedAt": "2026-11-25",
+  "generatedAt": "2026-11-26T12:46:40.177Z",
+  "checkedAt": "2026-11-26",
   "warnings": [],
   "articles": [
     {
@@ -489,6 +489,33 @@
       "latestContentVersion": "b94526cb9ee809a6f50aef941ca77bc91853509b227d771d85e6d1ee181a42e5",
       "bytes": 5475,
       "sha256": "c6e1216e5116aaf5ba58ec2bc304eff8259f1ec18eab79c55f381c351fd9faea"
+    },
+    {
+      "id": "nasa-4378329187ef56e6",
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "description": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, an",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
+      "publishedAt": "2026-11-25",
+      "license": "NASA 教育与信息用途文本",
+      "credit": "Source: NASA. Text only; no NASA endorsement implied.",
+      "level": "B2",
+      "genre": "science",
+      "wordCount": 927,
+      "goals": [
+        "general",
+        "ielts",
+        "cet6"
+      ],
+      "examVocabulary": {
+        "ielts": 143,
+        "cet4": 143,
+        "cet6": 134
+      },
+      "paragraphCount": 21,
+      "latestContentVersion": "5e619f343a55cbc33f1e7fe84b6c82ae3511c193c7962a39dce932b8192fa8e8",
+      "bytes": 6352,
+      "sha256": "77458ed9ed8644f91aafbd7c7599204c1b93875a066e2ed53eddbe71f0980261"
     },
     {
       "id": "nasa-5257e4b96b7100c0",
